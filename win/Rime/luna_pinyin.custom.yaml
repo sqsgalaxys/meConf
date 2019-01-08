@@ -1,0 +1,14 @@
+# [致第一次安装RIME的你 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/eternity/note/81763 '0.0')
+# [Rime中文输入状态下也使用英文标点](https://gist.github.com/yxjxx/6230675 '0.0')
+
+# patch:
+    # punctuator:
+        # import_preset: alternative
+        # full_shape:
+                # "/" : "、"
+    # key_binder:
+        # import_preset: alternative
+
+patch:
+  'punctuator/import_preset': alternative
+  'key_binder/import_preset': alternative

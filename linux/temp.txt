@@ -1,0 +1,17 @@
+
+After=network.target remote-fs.target nss-lookup.target network-online.target
+
+StandardOutput=syslog
+StandardError=inherit
+
+[Unit]
+Description=Me Start Service
+Wants=network-online.target
+After=network.target remote-fs.target nss-lookup.target network-online.target
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /root/start.sh
+StandardOutput=syslog
+StandardError=inherit
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,555 @@
+
+https://www.google.com/search?q=%E7%BC%96%E5%86%99+system+unit&ie=utf-8&oe=utf-8&client=firefox-b-ab | 编写 system unit - Google Search
+https://www.xncoding.com/2016/06/07/linux/systemd.html | centos7上systemd详解 | 会飞的污熊
+https://www.google.com/search?client=firefox-b&ei=vLa2W9nuBIae0gLSwpvACg&q=nss-lookup+after+%E5%90%AF%E5%8A%A8&oq=nss-lookup+after+%E5%90%AF%E5%8A%A8&gs_l=psy-ab.3...3719.7811..8618...2.0..3.347.2656.2-5j4......0....1..gws-wiz.......0i71j33i22i29i30.c-TcJMbmPGA | nss-lookup after 启动 - Google Search
+https://www.jianshu.com/p/88405648b921 | CentOS 7设置开机启动服务 - 简书
+https://blog.csdn.net/qq_34857250/article/details/79506556 | 编写使用systemctl启动服务脚本 - kismile - CSDN博客
+https://my.oschina.net/linjiezang/blog/1805626 | linux开机启动顺序，耗时 - 臧教授的个人空间 - 开源中国
+https://www.jianshu.com/p/92208194d700 | 在linux下创建自定义服务 - 简书
+http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html | Systemd 入门教程：实战篇 - 阮一峰的网络日志
+http://www.ruanyifeng.com/blog/ | 阮一峰的网络日志
+http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html | 每周分享第 24 期 - 阮一峰的网络日志
+http://www.bousai.metro.tokyo.jp/book/pdf/sc/sc_05_Disaster_Facts_and_Information_You_Should_Know_div2.pdf | Disaster Preparedness Tokyo - sc_05_Disaster_Facts_and_Information_You_Should_Know_div2.pdf
+
+https://www.google.com/search?q=arch+%E5%8F%96%E6%B6%88+bee+%E5%A3%B0%E9%9F%B3+&ie=utf-8&oe=utf-8 | arch 取消 bee 声音 - Google Search
+https://www.google.com/search?q=xinput+set+prop+&ie=utf-8&oe=utf-8&client=firefox-b-ab | xinput set prop - Google Search
+https://www.google.com/search?client=firefox-b-ab&ei=Z6O2W7zuOsKP0gLz6bi4BQ&q=xinput+set+prop+%E8%A7%A6%E6%91%B8%E6%9D%BF+%E7%82%B9%E5%87%BB&oq=xinput+set+prop+%E8%A7%A6%E6%91%B8%E6%9D%BF+%E7%82%B9%E5%87%BB&gs_l=psy-ab.3...29347.36868..37786...8.0..1.573.4086.2-15j5-1......0....1..gws-wiz.7beXOZhJBYc | xinput set prop 触摸板 点击 - Google Search
+https://github.com/kelln/ubuntu-/blob/master/%E5%BC%80%E5%90%AF%E5%92%8C%E5%85%B3%E9%97%AD%E8%A7%A6%E6%8E%A7%E6%9D%BF | ubuntu-/开启和关闭触控板 at master · kelln/ubuntu- · GitHub
+https://my.oschina.net/wqli/blog/1590960 | Ubuntu下触摸板的开启和关闭 - 简简单单 - 开源中国
+
+https://www.google.com/search?q=Debian+autologin+&ie=utf-8&oe=utf-8&client=firefox-b-ab | Debian autologin - Google Search
+https://help.gnome.org/admin/system-admin-guide/stable/login-automatic.html.en | Configure automatic login
+https://www.google.com/search?client=firefox-b-ab&q=debian+autologin+console&sa=X&ved=0ahUKEwjYzYbuhO3dAhWTLHwKHYX3B6UQ1QIIogEoAA | debian autologin console - Google Search
+https://unix.stackexchange.com/questions/401759/automatically-login-on-debian-9-2-1-command-line | Automatically Login on Debian 9.2.1 Command Line - Unix & Linux Stack Exchange
+
+https://blog.csdn.net/zzpzheng/article/details/71167785 | 树莓派Debian命令行设置wifi连接 - Daniel的专栏 - CSDN博客
+https://www.google.com/search?q=Debian+%E6%97%A0%E7%BA%BF%E7%BD%91+%E8%87%AA%E5%8A%A8&client=firefox-b-ab&ei=tia2W_vmCuDC0PEP0tWh8AE&start=10&sa=N&biw=679&bih=632 | Debian 无线网 自动 - Google Search
+http://wiki.friendlyarm.com/wiki/index.php/Debian_Jessie/zh#.E8.BF.9E.E6.8E.A5.E6.97.A0.E7.BA.BF.E7.BD.91.E7.BB.9C | Debian Jessie/zh - FriendlyARM WiKi
+https://www.jb51.net/LINUXjishu/234506.html | Linux系统下中 在命令行中实现Wifi 连接的方法_LINUX_操作系统_脚本之家
+
+https://www.google.com/search?q=kali+linux+%E7%B3%BB%E7%BB%9F+&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali linux 系统 - Google Search
+https://www.google.com/search?q=linux+%E7%BD%91%E7%BB%9C+%E7%AE%A1%E7%90%86+&ie=utf-8&oe=utf-8&client=firefox-b-ab | linux 网络 管理 - Google Search
+https://www.google.com/search?q=Debian+%E7%B3%BB%E7%BB%9F&ie=utf-8&oe=utf-8&client=firefox-b-ab | Debian 系统 - Google Search
+https://zh.wikipedia.org/wiki/Debian | Debian - 维基百科，自由的百科全书
+https://www.google.com/search?q=Debian+%E7%BD%91%E7%BB%9C&ie=utf-8&oe=utf-8&client=firefox-b-ab | Debian 网络 - Google Search
+https://www.debian.org/doc/manuals/debian-reference/ch05.zh-cn.html#_the_modern_network_configuration_without_gui | 第 5 章 网络设置
+https://blog.csdn.net/wangyan_HBU/article/details/51003017 | Debian下配置网络的方法 - wangyan_HBU的博客 - CSDN博客
+https://www.jianshu.com/p/334296e50fcc | Debian 网络配置 - 简书
+https://www.google.com/search?q=Debian+%E6%97%A0%E7%BA%BF%E7%BD%91+%E8%87%AA%E5%8A%A8&ie=utf-8&oe=utf-8&client=firefox-b-ab | Debian 无线网 自动 - Google Search
+https://www.google.com/search?q=wpasupplicant+%E5%AE%89%E8%A3%85&ie=utf-8&oe=utf-8&client=firefox-b-ab | wpasupplicant 安装 - Google Search
+https://blog.csdn.net/o0Avalon0o/article/details/52449816 | wpa-supplicant安装与使用 - 太陽の金貨 的博客 - CSDN博客
+https://www.google.com/search?q=%2Fetc%2Fnetwork%2Finterfaces+%E6%96%87%E4%BB%B6&ie=utf-8&oe=utf-8&client=firefox-b-ab | /etc/network/interfaces 文件 - Google Search
+https://blog.csdn.net/qingkongyeyue/article/details/68921452 | linux 下 /etc/network/interfaces 作用 - qingkongyeyue的博客 - CSDN博客
+https://www.google.com/search?q=kde+%E7%BD%91%E7%BB%9C&ie=utf-8&oe=utf-8&client=firefox-b-ab | kde 网络 - Google Search
+https://userbase.kde.org/KNetworkManager/zh-cn | KNetworkManager - KDE UserBase Wiki
+https://blog.csdn.net/lophyxp/article/details/7880605 | KDE的网络管理工具networkmanagement - 系统的逻辑 - CSDN博客
+https://www.google.com/search?q=wpa-ssid+wpa-psk&ie=utf-8&oe=utf-8&client=firefox-b-ab | wpa-ssid wpa-psk - Google Search
+https://www.google.com/search?client=firefox-b-ab&ei=PiW2W5FzprrQ8Q-OtZ9g&q=wpa-ssid+wpa-psk+%E7%BD%91%E7%BB%9C&oq=wpa-ssid+wpa-psk+%E7%BD%91%E7%BB%9C&gs_l=psy-ab.3...2775.5356..6608...0.0..2.654.3360.2-1j4j1j2......2....1..gws-wiz.......0i71j0i22i30.0odujtqzEFs | wpa-ssid wpa-psk 网络 - Google Search
+https://my.oschina.net/u/877567/blog/422820 | LINUX终端下配置WPA2加密无线网络 - 行者深蓝的个人空间 - 开源中国
+
+https://www.google.com/search?client=firefox-b-ab&ei=pBy2W5bHEsK_0wKP0KSoCA&q=getty+linux+autologin+kali&oq=getty+linux+autologin+kali&gs_l=psy-ab.3..33i22i29i30.9742.10755..11608...0.0..0.272.1039.2-4......0....1..gws-wiz.......0i71j0i22i30.bD4Ekc9jmIc | getty linux autologin kali - Google Search
+https://askubuntu.com/questions/168706/how-do-i-auto-login-as-root-into-the-tty-upon-boot | How do I auto-login as root into the TTY upon boot? - Ask Ubuntu
+http://linux.koolsolutions.com/2009/04/30/autologin-linux-console-mode | Problem loading page
+https://blog.sleeplessbeastie.eu/2016/07/25/how-to-automatically-login-user-at-the-console/ | How to automatically login user at the console
+https://www.google.com/search?q=mingetty+&ie=utf-8&oe=utf-8&client=firefox-b-ab | mingetty - Google Search
+https://www.google.com/search?q=mingetty+%E7%99%BB%E5%BD%95&ie=utf-8&oe=utf-8&client=firefox-b-ab | mingetty 登录 - Google Search
+https://wiki.archlinux.org/index.php/Getty_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | getty (简体中文) - ArchWiki
+https://blog.csdn.net/liushi558/article/details/27326945 | linux自动登录 - liushi558 - CSDN博客
+http://blog.sina.com.cn/s/blog_4ed4269c0102uz6u.html | 剖析Linux系统启动过程中的 mingetty->login (转）_pcant_新浪博客
+https://www.google.com/search?q=kali+auto+login+&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali auto login - Google Search
+https://www.yeahhub.com/auto-login-kali-linux-root-user/ | Auto Login in Kali Linux for Root User - Yeah Hub
+
+https://wenqixiang.com/manjaro-guide/ | Manjaro 上手使用简明教程 | 聞其詳
+https://www.google.com/search?q=kde+%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5&ie=utf-8&oe=utf-8&client=firefox-b-ab | kde 网络连接 - Google Search
+
+https://www.google.com/search?client=firefox-b-ab&ei=KeW1W6DSBbLd9AOk2KioCA&q=linux+command+%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5+wifi&oq=linux+command+%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5+wifi&gs_l=psy-ab.3...2535.5372..5796...0.0..0.550.4308.2-12j2j0j1......0....1..gws-wiz.dNUESEYoegU | linux command 自动连接 wifi - Google Search
+https://wenqixiang.com/linux-wireless-configuration-in-terminal-command-line/ | Debian 或 Ubuntu 在命令行下配置无线网络连接 WiFi 的方法 | 聞其詳
+https://www.google.com/search?q=linux+command+line+auto+connect+wifi&ie=utf-8&oe=utf-8&client=firefox-b-ab | linux command line auto connect wifi - Google Search
+
+https://www.google.com/search?client=firefox-b-ab&ei=hd21W8XIArW-0PEPvZ-r8Ac&q=inittab+agetty+&oq=inittab+agetty+&gs_l=psy-ab.3..0i22i30l3.48421.60859..76783...0.0..0.602.2403.2-7j5-1......0....1..gws-wiz.......0j0i71j0i67.MUD5x5EgSdU | inittab agetty - Google Search
+https://www.google.com/search?q=inittab+%E6%96%87%E4%BB%B6&ie=utf-8&oe=utf-8&client=firefox-b-ab | inittab 文件 - Google Search
+http://forum.ubuntu.org.cn/viewtopic.php?t=215365 | 探讨ubuntu启动过程，init进程启动后为什么没有inittab文件？ - Ubuntu中文论坛
+https://www.v2ex.com/notes/edit/34934 | V2EX
+https://www.google.com/search?q=execlp+%E5%87%BD%E6%95%B0&ie=utf-8&oe=utf-8&client=firefox-b-ab | execlp 函数 - Google Search
+https://www.google.com/search?q=pico+%E5%91%BD%E4%BB%A4&ie=utf-8&oe=utf-8&client=firefox-b-ab | pico 命令 - Google Search
+
+https://www.google.com/search?client=firefox-b-ab&ei=Kc61W6X0HITJ0PEPpLSeyAc&q=linux+auto+conn+wifi&oq=linux+auto+conn+wifi&gs_l=psy-ab.3.0.0i7i30l2j0i8i7i30l3.44188.46987..48346...0.0..0.613.2680.2-7j1j0j1......0....1..gws-wiz.......0j0i71j0i8i7i10i30.aFNhNIDUjXo | linux auto conn wifi - Google Search
+https://askubuntu.com/questions/412325/automatically-connect-to-a-wireless-network-using-cli | Automatically connect to a wireless network using CLI - Ask Ubuntu
+https://blog.csdn.net/xiaobo_Linux/article/details/46807633 | linux开机自动连接无线网络 - 小波Linux - CSDN博客
+https://www.google.com/search?q=linux+set+auto+login&ie=utf-8&oe=utf-8&client=firefox-b-ab | linux set auto login - Google Search
+https://www.google.com/search?client=firefox-b-ab&q=linux+auto+login+command+line&sa=X&ved=0ahUKEwi7j9zjruzdAhWToFsKHSX4BtsQ1QIInAEoAQ&biw=679&bih=650 | linux auto login command line - Google Search
+http://littlesvr.ca/linux-stuff/articles/autologinconsole/autologinconsole.php | Linux-Stuff: Log in automatically to a console when Linux boots
+https://www.linuxquestions.org/questions/linux-general-1/auto-login-as-root-or-other-user-in-console-mode-44434/ | auto login as root (or other user) in console mode
+http://blogs.koolwal.net/2009/04/30/autologin-linux-console-mode/ | koolwal.net
+https://help.ubuntu.com/stable/ubuntu-help/user-autologin.html.en | Log in automatically
+https://askubuntu.com/questions/175248/how-to-autologin-without-entering-username-and-passwordin-text-mode | boot - How to autologin (without entering username and password)(in text mode) - Ask Ubuntu
+
+https://www.google.com/search?q=quite+kde+console&ie=utf-8&oe=utf-8&client=firefox-b-ab | quite kde console - Google Search
+https://forum.kde.org/viewtopic.php?f=227&t=35343 | konsole short-cuts • KDE Community Forums
+https://www.google.com/search?q=quit+kde&ie=utf-8&oe=utf-8&client=firefox-b-ab | quit kde - Google Search
+https://www.linuxquestions.org/questions/linux-newbie-8/how-to-exit-kde-10275/ | How to exit KDE?
+
+https://www.linuxquestions.org/questions/linux-newbie-8/loadkeys-at-startup-640294/ | loadkeys at startup
+
+https://www.google.com/search?q=linux+x+%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6&client=firefox-b-ab&ei=fcW1W9KJA5mz0PEPmO2BoAc&start=10&sa=N&biw=1366&bih=632 | linux x 配置文件 - Google Search
+https://wangchujiang.com/linux-command/c/startx.html | startx 命令，Linux startx 命令详解：用来启动X Window - Linux 命令搜索引擎
+https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/203.html | 23.2 X Server 配置文件解析与设置 | 鸟哥的 Linux 私房菜：基础学习篇 第四版
+https://blog.csdn.net/longbei9029/article/details/53741677 | X配置文件xorg.conf分析 - 那时风起 - CSDN博客
+https://www.google.com/search?q=i3+%E9%85%8D%E7%BD%AE+kali&ie=utf-8&oe=utf-8&client=firefox-b-ab | i3 配置 kali - Google Search
+https://www.52os.net/articles/kail-change-desktop-environment.html | kali切换桌面环境 - 阅心笔记
+https://zhuanlan.zhihu.com/p/40740847 | Kali配置平铺式窗口管理器i3wm
+https://github.com/TasX-error404/config | GitHub - TasX-error404/config
+https://github.com/Karmenzind/dotfiles-and-scripts | GitHub - Karmenzind/dotfiles-and-scripts: Dotfiles and scripts providing ArchLinux one-stop installation, cumbersome configure details and other senseless stuff. Archlinux安装脚本，以及其他一些无聊的配置文件
+
+http://blog.freedomlang.com/656.html | Kali Linux 下自启动相关 - Web Designer | Front-end Developer
+
+https://blog.csdn.net/qq_27977257/article/details/54313166 | linux 下编辑 rc.local 设置开机启动 - 脱水的a鱼 - CSDN博客
+https://www.google.com/search?q=kali+%E8%AE%BE%E7%BD%AE+%E5%BC%80%E6%9C%BA+%E5%90%AF%E5%8A%A8&client=firefox-b-ab&ei=Ubi1W8GEEeuiggeRiozwBQ&start=10&sa=N&biw=1366&bih=632 | kali 设置 开机 启动 - Google Search
+https://wizardforcel.gitbooks.io/kali-linux-cookbook/content/ch1.html | 第一章 安装和启动Kali · Kali Linux 秘籍
+http://blog.freedomlang.com/655.html | Kali Linux 下开机自动挂载指定分区 - Web Designer | Front-end Developer
+http://blog.51cto.com/bckong/1656799 | kali-rc.local脚本开机自启动-bckong-51CTO博客
+https://blog.csdn.net/myfox0630/article/details/51958505 | 关于kali开机自动启动ssh服务的方法以及配置kalissh的一些基本操作 - myfox0630的博客 - CSDN博客
+https://blog.csdn.net/qq_33438733/article/details/79671403 | kali设置bash开机自启动 - BadRer的博客 - CSDN博客
+
+https://blog.csdn.net/yangdashi888/article/details/52086466 | 启动文件rc.local、/etc/bash.bashrc、~/bashrc、/etc/profile、~/.profile【转载from joyride】值得 - yangdashi888的博客 - CSDN博客
+
+https://www.v2ex.com/notes/34934 | V2EX › ToIPad
+about:preferences#advanced | Preferences
+https://www.google.com/search?client=firefox-b-ab&ei=aZe1W6rYA9G-ggfV0ZfQDQ&q=bashrc+etc+init+%E5%8C%BA%E5%88%AB&oq=bashrc+etc+init+%E5%8C%BA%E5%88%AB&gs_l=psy-ab.3...7820.12586..13311...3.0..0.558.3349.3-4j3j1......0....1..gws-wiz.......0i71j33i160.RdiaPpakEhM | bashrc etc init 区别 - Google Search
+https://www.google.com/search?q=linux+%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8&ie=utf-8&oe=utf-8&client=firefox-b-ab | linux 开机启动 - Google Search
+http://www.phpernote.com/linux/1247.html | Linux 添加开机启动项的三种方法-php程序员的笔记
+
+https://www.google.com/search?q=zshrc+loadkeys+%E6%8C%89%E9%94%AE&client=firefox-b-ab&ei=IIu1W7-eDdG50PEP7KGuqA4&start=10&sa=N&biw=1366&bih=610 | zshrc loadkeys 按键 - Google Search
+https://blog.csdn.net/kl28978113/article/details/47955275 | 通过修改键盘映射替代损坏按键 - Bingo - CSDN博客
+http://pchu.tiddlyspot.com/ | 我的TiddlyWiki笔记本 - 个人网页式wiki数据库
+about:addons | Add-ons Manager
+
+https://www.google.com/search?q=disable+sddm+man+startx&ie=utf-8&oe=utf-8&client=firefox-b-ab | disable sddm man startx - Google Search
+https://community.chakralinux.org/t/how-to-direct-login-to-a-desktop-session-and-avoid-sddm/7520 | How to direct login to a desktop session and avoid sddm - Tutorials - Chakra's Community
+https://unix.stackexchange.com/questions/264393/how-to-disable-x-server-autostart-in-debian-jessie | systemd - How to disable X server autostart in Debian Jessie? - Unix & Linux Stack Exchange
+https://bbs.archlinux.org/viewtopic.php?id=230903 | [Solved] [KDE] sddm didn't start automatically / Applications & Desktop Environments / Arch Linux Forums
+
+https://www.google.com/search?q=kde+%E7%99%BB%E5%BD%95&ie=utf-8&oe=utf-8&client=firefox-b-ab | kde 登录 - Google Search
+https://userbase.kde.org/System_Settings/Login_Screen/zh-cn | 系统设置/登录屏幕 - KDE UserBase Wiki
+https://www.google.com/search?q=%E7%A6%81%E7%94%A8+kde+&ie=utf-8&oe=utf-8&client=firefox-b-ab | 禁用 kde - Google Search
+https://codeday.me/bug/20171129/102704.html | 如何禁用Kwallet在kde plasma 5？ - 代码日志
+https://www.google.com/search?source=hp&ei=13e1W4vzMsfA0PEPptSJ8Ac&q=disable+kde+startx&btnK=Google+Search&oq=disable+kde+startx&gs_l=psy-ab.3...9296.31122..33068...8.0..5.2324.25703.3-1j4j15j4j5j2j1......0....1..gws-wiz.......0j0i131j0i10j0i22i30j0i22i10i30.kCYhqy5ryzw | disable kde startx - Google Search
+https://ubuntuforums.org/showthread.php?t=1519919 | [SOLVED] Disable kde / x server autostart 10.04
+https://www.linuxquestions.org/questions/linux-newbie-8/disable-gui-login-and-config-startx-74680/ | https://www.linuxquestions.org/questions/linux-newbie-8/disable-gui-login-and-config-startx-74680/
+https://www.google.com/search?q=%E5%88%A0%E9%99%A4+KDM+&ie=utf-8&oe=utf-8&client=firefox-b-ab | 删除 KDM - Google Search
+https://www.linuxidc.com/Linux/2012-08/69050.htm | 删除KDE后无法进入X-Window的解决方法_Linux教程_Linux公社-Linux系统门户网站
+http://www.kbase101.com/question/3680.html | 什么是gdm3，kdm，lightdm？如何安装和删除它们？ - 智库101 - 一个基于CC版权的问答分享平台
+https://www.google.com/search?source=hp&ei=j3m1W9mGMOOL_Qbcg7iYBQ&q=x+display+manager&btnK=Google+Search&oq=x+display+man&gs_l=psy-ab.3.0.0l3j0i22i30l7.14091.21200..24720...0.0..2.2018.9741.5-4j8-3j1......1....1..gws-wiz.......0i131j0i10.C8uB7YMqfb0 | x display manager - Google Search
+https://zh.wikipedia.org/wiki/X%E6%98%BE%E7%A4%BA%E7%AE%A1%E7%90%86%E5%99%A8 | X显示管理器 - 维基百科，自由的百科全书
+https://www.google.com/search?source=hp&ei=hnq1W6egNOzR5gLAjKnYDg&q=sddm&btnK=Google+Search&oq=sddm&gs_l=psy-ab.3..0l2j0i131j0l2j0i131j0l4.3541.4792..5200...0.0..0.1451.2650.7-2......0....1..gws-wiz.qwu7JZPXlmk | sddm - Google Search
+https://wiki.archlinux.org/index.php/SDDM | SDDM - ArchWiki
+https://wiki.archlinux.org/index.php/SDDM_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | SDDM (简体中文) - ArchWiki
+https://en.wikipedia.org/wiki/Simple_Desktop_Display_Manager | Simple Desktop Display Manager - Wikipedia
+https://www.google.com/search?q=disable+SDDM+console&ei=WHy1W8LSKK-Z_QaBu6moAQ&start=10&sa=N&biw=1366&bih=610 | disable SDDM console - Google Search
+https://superuser.com/questions/974797/how-to-boot-a-linux-system-without-graphical-server | command line - How to boot a Linux system without graphical server - Super User
+https://www.linuxquestions.org/questions/fedora-35/fc26-kde-how-to-disable-sddm-before-xorg-configure-4175612078/ | https://www.linuxquestions.org/questions/fedora-35/fc26-kde-how-to-disable-sddm-before-xorg-configure-4175612078/
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%A4%9A%E7%B3%BB%E7%BB%9F%20%20%E6%8C%82%E8%BD%BD%E5%88%86%E5%8C%BA&rsv_pq=d0ad800b00038f18&rsv_t=e9d3NeScyNagYVczWgoSFBBZ6rSnNqQDGJbm6Q8BPGVguaDLF3Ass8npSTA&rqlang=cn&rsv_enter=1&rsv_sug3=31&rsv_sug1=39&rsv_sug7=101&sug=%25E6%258C%2582%25E8%25BD%25BD%25E5%2588%2586%25E5%258C%25BA&rsv_n=1&rsv_sug2=0&inputT=20291&rsv_sug4=31652 | 多系统 挂载分区_百度搜索
+https://blog.csdn.net/gyunling/article/details/52033127 | linux 下如何给系统挂载磁盘，多个磁盘挂载到同一卷组中 - gyunling的专栏 - CSDN博客
+https://blog.csdn.net/json159/article/details/80595443 | Linux分区和挂载(mount命令的学习) - 黎明 - CSDN博客
+
+https://www.google.com/?gws_rd=ssl | Google
+about:preferences#advanced | Preferences
+https://www.google.com/search?q=%E5%A4%9A+linux+%E7%B3%BB%E7%BB%9F+%E6%8C%82%E8%BD%BD+%E7%A1%AC%E7%9B%98&ie=utf-8&oe=utf-8&client=firefox-b-ab | 多 linux 系统 挂载 硬盘 - Google Search
+https://blog.csdn.net/zqixiao_09/article/details/51417432 | Linux 下挂载新硬盘方法 - 知秋一叶 - CSDN博客
+https://www.jianshu.com/p/ce31ae7da616 | linux下磁盘分区、挂载知多少 - 简书
+http://yangfannie.com/ | 聂扬帆博客 | 分享IT运维笔记和实战技巧的个人博客
+https://www.wappalyzer.com/upgraded?v5.5.3 | Wappalyzer - Wappalyzer has been upgraded
+
+https://www.google.com/search?q=%E7%99%BB%E9%99%86%E5%99%A8+linux+kde&ie=utf-8&oe=utf-8&client=firefox-b-ab | 登陆器 linux kde - Google Search
+https://wiki.deepin.org/index.php?title=%E7%99%BB%E5%BD%95%E7%AE%A1%E7%90%86%E5%99%A8 | 登录管理器 - deepin Wiki
+https://www.zhihu.com/question/24318036 | 常见的Linux X(KDE\GNOME等)可以纯键盘操作吗,那些操作不可以/可以用键盘完成? - 知乎
+https://www.google.com/search?q=%E5%88%A0%E9%99%A4+KDE&num=100&newwindow=1&safe=active&client=firefox-b-ab&source=lnt&tbs=qdr:y&sa=X&ved=0ahUKEwiGgLya6s_ZAhVlx1QKHfcfB-wQpwUIIQ&biw=1366&bih=610 | 删除 KDE - Google Search
+https://liuf.net/blog/2017/06/installed-kde-plasma/ | 安装 KDE 的经历和对它的遗憾及其它 | 人到中年
+https://www.myvoipapp.com/blogs/yxh/tag/kde/ | kde – 静水潜流
+http://blog.licess.com/debian_delete_gnome_kde/ | Debian下彻底删除Gnome和KDE的方法 - Licess's Blog
+http://blog.sina.com.cn/s/blog_6f97247e010116lf.html | Archlinux 卸载KDE桌面和gnome桌面，更换为lxde桌面_薇海边小路_新浪博客
+
+https://www.google.com/search?q=kali+%E7%A6%81%E7%94%A8+%E7%99%BB%E5%BD%95+%E7%95%8C%E9%9D%A2&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali 禁用 登录 界面 - Google Search
+http://drops.xmd5.com/static/drops/tips-826.html | Kali Linux渗透测试实战 第一章 | WooYun知识库
+https://www.cnblogs.com/JemBai/archive/2011/09/15/2177386.html | Linux启动界面切换:图形界面-字符界面(转) - 草原和大树 - 博客园
+http://skysider.com/?p=122 | kali linux 2.0 安装后的10点配置建议 – skysider's blog
+https://secretwiki.org/2017/05/30/kali-install/ | Kali Linux 安装笔记 | SecretWiki
+https://www.jianshu.com/p/22ca57972058 | Kali修改开机运行级别 - 简书
+http://zhaokaifeng.com/?p=313 | Kali Linux图形界面与命令行界面的切换 | 荒原之梦
+http://zhaokaifeng.com/?author=1 | 荒原之梦
+http://zhaokaifeng.com/?cat=8 | 诗歌 | 荒原之梦
+http://zhaokaifeng.com/?page_id=124 | About Me | 荒原之梦
+https://www.google.com/search?q=OpenVAS&ie=utf-8&oe=utf-8&client=firefox-b-ab | OpenVAS - Google Search
+https://www.google.com/search?q=kde+%E5%90%AF%E5%8A%A8+%E8%BF%87%E7%A8%8B&ie=utf-8&oe=utf-8&client=firefox-b-ab | kde 启动 过程 - Google Search
+https://wiki.archlinux.org/index.php/KDE_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#.E4.BD.BF.E7.94.A8.E5.85.B6.E4.BB.96.E7.AA.97.E5.8F.A3.E7.AE.A1.E7.90.86.E5.99.A8 | KDE (简体中文) - ArchWiki
+
+liberator://help/intro | Vimperator Introduction
+chrome://omnibar/content/changelog.html | Change Log - Omnibar
+https://www.google.com/search?q=kali&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali - Google Search
+
+https://www.google.com/search?q=kali+%E6%9B%B4%E6%8D%A2+%E6%A1%8C%E9%9D%A2&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali 更换 桌面 - Google Search
+https://wizardforcel.gitbooks.io/kali-linux-doc/content/28.html | 定制Kali的桌面系统 | Kali Linux 中文文档
+https://wizardforcel.gitbooks.io/kali-linux-doc/content/28.html#5xihfiganzk4_4 | 定制Kali的桌面系统 | Kali Linux 中文文档
+https://add0n.com/google-translator.html?version=0.5.4&type=install | FAQs page for Google™ Translator :: add0n.com
+moz-extension://bedd2158-4ce2-40fe-afff-55fced68fd64/firstRun.html | Adblock Plus has been installed
+https://www.wappalyzer.com/installed | Wappalyzer - Installation successful
+https://www.greasespot.net/2017/09/greasemonkey-4-announcement.html | Greasespot: Greasemonkey 4 Announcement
+
+about:addons | Add-ons Manager
+moz-extension://eefa341f-1f27-4430-b913-33d3248e7867/vault.html | My LastPass Vault
+about:preferences#sync | Preferences
+https://mail.google.com/mail/u/0/#inbox/161eaf12b7f9bbd0 | Confirm new sign-in to Firefox - sqsgalaxys@gmail.com - Gmail
+https://accounts.google.com/SignUp?service=mail&continue=https://mail.google.com/mail/?pc=topnav-about-en | Create your Google Account
+https://accounts.firefox.com/sms?code=6316c01b61fa0b408ca2b4515b745ba4&uid=4f803711fc2d4e118f82259e3ce822d3&service=sync&resume=eyJlbWFpbCI6InNxc2dhbGF4eXNAZ21haWwuY29tIiwiZW50cnlwb2ludCI6InN5bmNlZC10YWJzIiwiZmxvd0JlZ2luIjoxNTIwMDY1MDc1NjQxLCJmbG93SWQiOiJmMjA4OTcyODIwZjdkMTdmNTMzNmNkYjFlYzk4MzgxOTk4NGU3NDI1NjY0NGJiZTRhMjhjN2U3ZmUxYjkzYmQxIiwicmVzZXRQYXNzd29yZENvbmZpcm0iOnRydWUsInVuaXF1ZVVzZXJJZCI6IjlhMGZkMzdlLTZkNTktNGU0ZS1hYjMwLWUyZDAxYTI4NDdhYiIsInV0bUNhbXBhaWduIjpudWxsLCJ1dG1Db250ZW50IjpudWxsLCJ1dG1NZWRpdW0iOm51bGwsInV0bVNvdXJjZSI6bnVsbCwidXRtVGVybSI6bnVsbH0%3D&utm_source=email&utm_medium=email&utm_campaign=fx-new-signin&utm_content=fx-confirm-signin | Send Firefox directly to your smartphone and sign in to complete set-up
+
+https://www.google.com/search?q=%E6%9F%A5%E7%9C%8B+kali+%E7%89%88%E6%9C%AC+2018&client=firefox-b-ab&tbs=qdr:y&ei=bVeaWqzxOtCijwO0q4mIAQ&start=10&sa=N&biw=1366&bih=632 | 查看 kali 版本 2018 - Google Search
+http://www.bijishequ.com/detail/588398?p= | Kali Linux入坑之基本配置（2018.1）--ps,内核,js,ssh,安装,Kali,vm,tools,虚拟机
+https://www.cnbeta.com/articles/soft/698543.htm | 关注于渗透测试和安全审计的发行版 Kali Linux 发布 2018.1 版 - Linux - cnBeta.COM
+http://www.nov.im/93.html | 最新kali版本2018年1月份安装openvas过程 | Nov
+http://blog.51cto.com/2042617/1706488 | kali——查看版本-夜深人安静-51CTO博客
+http://blog.csdn.net/qian_feifei/article/details/73610922 | Linux下查看系统版本信息 - CSDN博客
+about:accounts?action=signin&entrypoint=synced-tabs | Firefox Sync
+https://www.google.com/search?q=kali&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali - Google Search
+https://www.google.com/search?client=firefox-b-ab&ei=kFiaWsSBKMWp0gKRn6SYDw&q=version+site%3Akali.org%2F&oq=version+site%3Akali.org%2F&gs_l=psy-ab.3...1329.2437.0.2776.6.6.0.0.0.0.0.0..0.0....0...1..64.psy-ab..6.0.0....0.NalWBTqdi24 | version site:kali.org/ - Google Search
+https://www.kali.org/category/releases/ | Kali Linux Releases | Kali Linux
+https://www.kali.org/news/kali-linux-2018-1-release/ | Kali Linux 2018.1 Release | Kali Linux
+https://www.kali.org/releases/kali-linux-2017-3-release/ | Kali Linux 2017.3 Release | Kali Linux
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?client=firefox-b-ab&ei=YFaaWtieJ8afU8vIrkA&q=how+to+look+is+new+kali&oq=how+to+look+is+new+kali&gs_l=psy-ab.3...1894.7552.0.7831.14.13.0.0.0.0.595.1589.4-1j2.3.0....0...1.1.64.psy-ab..11.3.1586...0i67k1j33i22i29i30k1j0i22i30k1.0.IAMmBTbcheg | how to look is new kali - Google Search
+https://www.google.com/search?q=kali+wiki&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali wiki - Google Search
+https://en.wikipedia.org/wiki/Kali | Kali - Wikipedia
+https://en.wikipedia.org/wiki/Kali_(disambiguation) | Kali (disambiguation) - Wikipedia
+https://en.wikipedia.org/wiki/Kali_Linux | Kali Linux - Wikipedia
+https://www.google.com/search?q=kali+command+version&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali command version - Google Search
+https://www.linuxquestions.org/questions/linux-newbie-8/how-to-find-out-the-version-of-the-distribution-in-kali-linux-4175613664/ | [SOLVED] how to find out the version of the distribution in kali linux
+https://forums.kali.org/showthread.php?22501-How-to-view-kali-linux-version | How to view kali linux version?
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?q=use+zsh+command+not+found&ie=utf-8&oe=utf-8&client=firefox-b-ab | use zsh command not found - Google Search
+https://askubuntu.com/questions/186808/every-command-fails-with-command-not-found-after-changing-bash-profile | bash - Every command fails with "command not found" after changing .bash_profile? - Ask Ubuntu
+https://stackoverflow.com/questions/18428374/commands-not-found-on-zsh | shell - commands not found on zsh - Stack Overflow
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=bash%20jiazai%20shunxu&rsv_pq=ce9be7090000115c&rsv_t=b2675lXfAzfm0RgCExBfPz1hsQkdVww8ya6ht%2FW%2Fv3DD538sbEMmjYnIheY&rqlang=cn&rsv_enter=1&rsv_n=2&rsv_sug3=21&rsv_sug1=10&rsv_sug7=100&rsv_sug2=0&inputT=15278&rsv_sug4=15279 | bash jiazai shunxu_百度搜索
+https://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_010.html | bash 的配置文件加载顺序 - LinuxPanda - 博客园
+http://blog.csdn.net/kevinlou2008/article/details/54971174 | linux bash配置文件加载顺序(图解) - CSDN博客
+about:preferences#advanced | Preferences
+https://www.google.com/search?q=command+not+found+package+&ie=utf-8&oe=utf-8&client=firefox-b-ab | command not found package - Google Search
+https://www.google.com/search?q=kali+bash+&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali bash - Google Search
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=linux%20zsh%20wenjian%20jiazai&rsv_pq=f33405e80005af9e&rsv_t=efedo7iqmeyiIjdKhAaV7Mi%2FNzt0xngXclXickNWl6AAwNg0N4bxGS9mYow&rqlang=cn&rsv_enter=1&rsv_sug3=25&rsv_sug1=1&rsv_sug7=100&rsv_sug2=0&inputT=5284&rsv_sug4=5681 | linux zsh wenjian jiazai_百度搜索
+http://www.jb51.net/article/103394.htm | mac 安装omyzsh后不执行~/.bash_profile、~/.bashrc的完美解决办法_linux shell_脚本之家
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?q=bash+%E6%94%B9%E4%B8%BA%E3%80%80zsh+%E8%BE%93%E5%85%A5%E6%B3%95%E3%80%80%E5%A4%B1%E6%95%88%E3%80%80kali&client=firefox-b-ab&ei=Z0yaWvrtJ4r8jwOIoLLADA&start=10&sa=N&biw=1366&bih=632 | bash 改为　zsh 输入法　失效　kali - Google Search
+https://www.google.com/search?q=bash+%E6%94%B9%E4%B8%BA%E3%80%80zsh+%E8%BE%93%E5%85%A5%E6%B3%95%E3%80%80%E5%A4%B1%E6%95%88%E3%80%80kali&client=firefox-b-ab&ei=fkyaWo1ig6RR552g8Aw&start=20&sa=N&biw=1366&bih=632 | bash 改为　zsh 输入法　失效　kali - Google Search
+http://www.cnblogs.com/mitnick/category/770648.html | Kali Linux - 随笔分类 - askDing - 博客园
+https://www.google.com/search?q=%E7%99%BB%E9%99%86shell&ie=utf-8&oe=utf-8&client=firefox-b-ab | 登陆shell - Google Search
+http://smilejay.com/2012/10/interactive-shell-login-shell/ | 交互式shell和非交互式shell、登录shell和非登录shell的区别 – 笑遍世界
+https://www.google.com/search?q=%E8%AE%BE%E7%BD%AE%E9%BC%A0%E6%A0%87%E3%80%80%E9%80%9F%E5%BA%A6%E3%80%80linux&ie=utf-8&oe=utf-8&client=firefox-b-ab | 设置鼠标　速度　linux - Google Search
+http://www.linuxdiyf.com/linux/22336.html | Ubuntu系统里设置鼠标速度_Linux系统教程_红联Linux门户
+https://jingyan.baidu.com/article/a3aad71ae801acb1fb0096f7.html | Linux(Ubuntu)怎样设置鼠标速度（灵敏度）_百度经验
+
+https://www.google.com/search?q=arch&ie=utf-8&oe=utf-8&client=firefox-b-ab | arch - Google Search
+https://www.archlinux.org/ | Arch Linux
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?q=unbuntu&ie=utf-8&oe=utf-8&client=firefox-b-ab | unbuntu - Google Search
+https://www.ubuntu.com/ | The leading operating system for PCs, IoT devices, servers and the cloud | Ubuntu
+https://github.com/sqsgalaxys/sqsgalaxys.github.io/blob/hexo/source/_posts/ideavim-%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF%E7%9A%84%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90.md | sqsgalaxys.github.io/ideavim-设置面板的简单分析.md at hexo · sqsgalaxys/sqsgalaxys.github.io
+https://raw.githubusercontent.com/sqsgalaxys/sqsgalaxys.github.io/hexo/source/_posts/ideavim-%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF%E7%9A%84%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90.md | https://raw.githubusercontent.com/sqsgalaxys/sqsgalaxys.github.io/hexo/source/_posts/ideavim-设置面板的简单分析.md
+http://sqsgalaxys.github.io/2018/01/08/ideavim-%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF%E7%9A%84%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90/#more | ideavim 设置面板的简单分析 | sqsgalaxys'Blog
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=kde%20zhuomian%20shurufa&rsv_pq=e39c502c000468a7&rsv_t=337ejSZ3o4iohTH%2FLJHI3SxTK0ogYXRcCtV%2BpniDez5g%2B71gabbyQaeZsxo&rqlang=cn&rsv_enter=1&rsv_sug3=20&rsv_sug1=1&rsv_sug7=100&rsv_sug2=0&inputT=4623&rsv_sug4=4624 | kde zhuomian shurufa_百度搜索
+http://blog.csdn.net/hzrnice/article/details/39232933 | Centos7.0-KDE 启动中文输入法 - CSDN博客
+http://blog.csdn.net/knuuy/article/details/45798873 | CentOS 7在gnome/kde 下安装中文输入法 - CSDN博客
+http://blog.csdn.net/quwenzhe/article/details/46594195 | CentOS 7安装fcitx中文输入法 - CSDN博客
+https://www.baidu.com/s?wd=kde%20%E8%BE%93%E5%85%A5%E6%B3%95&pn=20&oq=kde%20%E8%BE%93%E5%85%A5%E6%B3%95&ie=utf-8&rsv_idx=1&rsv_pq=8e5d032c000331d0&rsv_t=8f87BxlJspTxs1EU%2B21kV6rjdoWSBqjQoP63B0fnlZMSsmAuGBNIKAtaQpY&rsv_page=1&bs=kde%20%E8%BE%93%E5%85%A5%E6%B3%95 | kde 输入法_百度搜索
+https://www.v2ex.com/t/329351 | 求助 debian 使用 kde 的时候几乎所有 qt 的程序都无法切换输入法 - V2EX
+https://fcitx-im.org/wiki/Input_method_related_environment_variables/zh-cn#QT_IM_MODULE | Input method related environment variables/zh-cn - Fcitx
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=kde%20shubiaosudu&rsv_pq=e9ab2dc00003ad76&rsv_t=fd9abHoU%2Bbmipcmcwqs2nlLNpN5RisgLgQb4R6%2Fvk%2F5xHu94%2BsC%2FmsFcKis&rqlang=cn&rsv_enter=1&rsv_sug3=15&rsv_sug2=0&inputT=3047&rsv_sug4=3048 | kde shubiaosudu_百度搜索
+https://www.linuxidc.com/Linux/2016-12/138088.htm | 安装KDE Plasma后，你要做的七件事_Linux教程_Linux公社-Linux系统门户网站
+http://blog.csdn.net/niushuai666/article/details/7405525 | Ubuntu下关于KDE鼠标高级设置中两个不太容易搞明白的概念 - CSDN博客
+https://www.google.com/search?q=+debian_chroot&ie=utf-8&oe=utf-8&client=firefox-b-ab | debian_chroot - Google Search
+https://www.google.com/search?q=bash+to+zsh+input+method&ie=utf-8&oe=utf-8&client=firefox-b-ab | bash to zsh input method - Google Search
+https://unix.stackexchange.com/questions/411688/zsh-cant-input-to-terminal-when-piping-stdin-and-stdout-with-variable-command-t?rq=1 | bash - zsh can't input to terminal when piping stdin and stdout with variable command that has tty output - Unix & Linux Stack Exchange
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=zsh%20bash%20%20jiazai%20%20%20%2Fetc%2Fprofile&rsv_pq=c17db3c6000522f3&rsv_t=acaeNDusUtV8Sw7Kqt1evJeJZiHgliE0LfVvzv%2BnriMKae%2BYJuB2Fz1F5bA&rqlang=cn&rsv_enter=1&rsv_n=2&rsv_sug3=17&rsv_sug2=0&inputT=6396&rsv_sug4=6398 | zsh bash jiazai /etc/profile_百度搜索
+https://www.v2ex.com/t/130905 | 装了 ohmyzsh,为啥.bash_profile 就不执行了...那改环境变量应该去哪呢? - V2EX
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=profile%20zsh%20bash%20etc%20bashrc&rsv_pq=f8887d2d00037e69&rsv_t=5384vhCtR98tfi6LQm9v5m5hxZPLASb3XhxHpt%2Bktb9uQN%2B9x6jApHPTOkY&rqlang=cn&rsv_enter=1&rsv_n=2&rsv_sug3=1&rsv_sug2=0&inputT=881&rsv_sug4=882 | profile zsh bash etc bashrc_百度搜索
+http://www.jb51.net/article/103394.htm | mac 安装omyzsh后不执行~/.bash_profile、~/.bashrc的完美解决办法_linux shell_脚本之家
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=x%20windows%20kde&rsv_pq=b5562fb1000472ae&rsv_t=d27f6G8pfDb7QWlM6IXrCjdoWghaJMkAWn2czPv1IyHtsKvZ05Q36ruUwkQ&rqlang=cn&rsv_enter=1&rsv_sug3=14&rsv_sug1=1&rsv_sug7=100&rsv_sug2=0&inputT=8338&rsv_sug4=8823 | x windows kde_百度搜索
+http://blog.csdn.net/jincf2011/article/details/6362923 | X Window、GNOME和KDE之间的关系 - CSDN博客
+http://blog.csdn.net/ithomer/article/details/9471841 | GTK、KDE、Gnome、XWindows 图形界面 - CSDN博客
+http://blog.csdn.net/dlodj/article/details/6674316 | x-window、gnome、kde的区别和详细介绍 - CSDN博客
+https://www.bilibili.com/ | 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://search.bilibili.com/all?keyword=douluodalu&from_source=banner_search | douluodalu - 搜索结果 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://www.bilibili.com/video/av19248393/?from=search&seid=13410782602069279905 | 【帅气的影狐】老外看斗罗大陆第一集 缓冲已至，冰冷刺骨_国产原创相关_国创_bilibili_哔哩哔哩
+https://search.bilibili.com/all?keyword=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&from_source=video_tag | 斗罗大陆 - 搜索结果 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://www.bilibili.com/bangumi/play/ss22829/?from=search&seid=12348574699867798230 | 斗罗大陆2绝世唐门：第1话_国创_bilibili_哔哩哔哩
+
+https://www.google.com/search?q=kde+input+method&client=firefox-b-ab&ei=PzuaWvr8ConwUpvUm6AP&start=30&sa=N&biw=1366&bih=632 | kde input method - Google Search
+https://www.google.com/search?q=fcitx+no+input+window&client=firefox-b-ab&ei=TDuaWuX1J4WVUfeboYAM&start=10&sa=N&biw=1366&bih=632 | fcitx no input window - Google Search
+https://lists.debian.org/debian-user/2017/09/msg00341.html | Cannot switch to Chinese Input Method with fcitx after upgrading to Debian Buster
+https://www.jianshu.com/p/1addf6b5abe5 | Linux输入系统 - 简书
+https://wenku.baidu.com/view/871c95c633d4b14e852468ad.html?re=view | Limux操作系统下三种输入法架构探析_论文_百度文库
+https://wiki.archlinux.org/index.php/Fcitx | Fcitx - ArchWiki
+https://wiki.archlinux.org/index.php/Fcitx_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | Fcitx (简体中文) - ArchWiki
+https://wiki.archlinux.org/index.php/IBus | IBus - ArchWiki
+https://wiki.archlinux.org/index.php/IBus_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | IBus (简体中文) - ArchWiki
+https://www.google.com/search?q=kde&ie=utf-8&oe=utf-8&client=firefox-b-ab | kde - Google Search
+https://www.kde.org/ | KDE Community Home - KDE.org
+https://en.wikipedia.org/wiki/KDE | KDE - Wikipedia
+https://zh.wikipedia.org/wiki/KDE | KDE - 维基百科，自由的百科全书
+https://en.wikipedia.org/wiki/Comparison_of_X_Window_System_desktop_environments | Comparison of X Window System desktop environments - Wikipedia
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?q=kali+zhongwenshurufa+&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali zhongwenshurufa - Google Search
+http://www.cnblogs.com/dunitian/p/4712323.html | 4.Kali 1.0 / 2.0 安装中文输入法（谷歌pinyin + 其他） - 毒逆天 - 博客园
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?q=kali+zhongwenshurufa+&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali zhongwenshurufa - Google Search
+http://www.cnblogs.com/dunitian/p/4712323.html | 4.Kali 1.0 / 2.0 安装中文输入法（谷歌pinyin + 其他） - 毒逆天 - 博客园
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=kali%20%E8%BE%93%E5%85%A5%E6%B3%95%20%E5%A4%B1%E6%95%88&rsv_pq=819c534e000311c9&rsv_t=7470uUpaqWW2vRmjktpkp62M5%2FDbylhiYtw4Lq%2BF1JM8Mhes6nFfndnqpcY&rqlang=cn&rsv_enter=1&sug=kali%25E5%25AE%2589%25E8%25A3%2585%25E8%25BE%2593%25E5%2585%25A5%25E6%25B3%2595&inputT=24747&gpc=stf%3D1517633173%2C1520052373%7Cstftype%3D1&tfflag=1 | kali 输入法 失效_百度搜索
+http://www.kali.org.cn/thread-23975-1-1.html | kali linux 中文输入法（弄了一晚综合各种帖子终于弄好了） - Kali中文网
+http://yi-kui.lofter.com/post/3947d6_7ea2af2 | Kali 06：kali 2.0的fcitx输入法问题以及安装ibus输入法-易逵
+https://www.google.com/search?q=ibus+fcitx+&ie=utf-8&oe=utf-8&client=firefox-b-ab | ibus fcitx - Google Search
+https://www.baidu.com/s?wd=gtk_im_module%20kde%20%E9%85%8D%E7%BD%AE&pn=10&oq=gtk_im_module%20kde%20%E9%85%8D%E7%BD%AE&ie=utf-8&rsv_idx=1&rsv_pq=e9fcd846000258d7&rsv_t=c1e4zBNLHnb8d2Y%2FRsxFwTHHXIlZJfW6zecUDIMgLebtbCl63kZ5qAcBDZo&rsv_page=1 | gtk_im_module kde 配置_百度搜索
+https://www.google.com/search?q=kde+zhuomian+peizhi&ie=utf-8&oe=utf-8&client=firefox-b-ab | kde zhuomian peizhi - Google Search
+https://www.google.com/search?q=iphone+screen+not+work+close&ie=utf-8&oe=utf-8&client=firefox-b-ab | iphone screen not work close - Google Search
+https://www.google.com/search?client=firefox-b-ab&q=iphone+screen+not+responding+to+touch&sa=X&ved=0ahUKEwi40bLgt8_ZAhVJ22MKHXKoAwIQ1QIIdCgA | iphone screen not responding to touch - Google Search
+https://support.apple.com/en-us/HT201406 | Get help with the display on your iPhone, iPad, or iPod touch - Apple Support
+https://www.youtube.com/watch?v=ER4MdNIGFPw | iPhone: Fix Touch Screen is not Responding Properly - YouTube
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?client=firefox-b-ab&biw=1024&bih=478&ei=IxqaWuzaDMm4jwPxraTABQ&q=fcitx+no+input+window&oq=no+input+window+&gs_l=psy-ab.1.2.0i22i30k1l8.19467.19467.0.23400.1.1.0.0.0.0.855.855.6-1.1.0....0...1..64.psy-ab..0.1.854....0.C9JQrFiAVIs | fcitx no input window - Google Search
+https://wiki.archlinux.org/index.php/fcitx#fcitx_and_KDE | Fcitx - ArchWiki
+https://forum.kaosx.us/d/2026-fcitx-saying-no-input-window | fcitx saying No Input Window - KaOS
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?q=vim+line+edit+config&ie=utf-8&oe=utf-8&client=firefox-b-ab | vim line edit config - Google Search
+https://www.google.com/search?q=vim+line+edit+config+linux&ie=utf-8&oe=utf-8&client=firefox-b-ab | vim line edit config linux - Google Search
+http://vim.wikia.com/wiki/Set_Vim_as_your_default_editor_for_Unix | Set Vim as your default editor for Unix | Vim Tips Wiki | FANDOM powered by Wikia
+https://console.jcloud.com/host/compute/list | 京东云控制台
+https://console.jcloud.com/host/ssh/list | 京东云控制台
+https://www.google.com/search?q=ag+search+file&ie=utf-8&oe=utf-8&client=firefox-b-ab | ag search file - Google Search
+https://github.com/ggreer/the_silver_searcher | ggreer/the_silver_searcher: A code-searching tool similar to ack, but faster.
+https://www.google.com/search?q=ssh+key+gen&ie=utf-8&oe=utf-8&client=firefox-b-ab | ssh key gen - Google Search
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=kali%20wufashuruzhongwen&rsv_pq=e38969330001115b&rsv_t=a7a8oTDptG6En2v00FXKNQ7nZa0SlnG8ykMDx%2F%2FR7Gb2YldFUby5TlOv5K8&rqlang=cn&rsv_enter=1&rsv_n=2&rsv_sug3=1&rsv_sug2=0&inputT=651&rsv_sug4=651 | kali wufashuruzhongwen_百度搜索
+https://jingyan.baidu.com/article/d621e8da07ee1c2865913fce.html | 全程无死角指导kali安装中文输入法......_百度经验
+https://www.google.com/search?q=sunpinyin+kali+&ie=utf-8&oe=utf-8&client=firefox-b-ab | sunpinyin kali - Google Search
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%AE%89%E8%A3%85%20sunpinyin%20kali&rsv_pq=92a1940e0000f59a&rsv_t=1a01oIAoMBOZ8X5GFnAXeP24b8ocgVPaVCMRJZ81uiAcxIbB5Y32Ewoka1I&rqlang=cn&rsv_enter=1&rsv_sug3=11&rsv_sug1=2&rsv_sug7=100&sug=%25E5%25AE%2589%25E8%25A3%2585&rsv_n=2&rsv_sug2=0&inputT=4570&rsv_sug4=4915 | 安装 sunpinyin kali_百度搜索
+https://jingyan.baidu.com/article/925f8cb8fcde30c0dce05672.html | kali linux 2.0安装中文输入法_百度经验
+http://www.bubuko.com/infodetail-2318893.html | kali安装中文输入法的正确方式-布布扣-bubuko.com
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?q=local+gen+&ie=utf-8&oe=utf-8&client=firefox-b-ab | local gen - Google Search
+https://www.google.com/search?q=kde+change+lc_ctype&ie=utf-8&oe=utf-8&client=firefox-b-ab | kde change lc_ctype - Google Search
+https://askubuntu.com/questions/635117/what-is-the-thing-in-kde-that-override-my-locale-settings | kubuntu - What is the thing in KDE that override my locale settings - Ask Ubuntu
+https://www.google.com/search?q=kde+lc_ctype+&ie=utf-8&oe=utf-8&client=firefox-b-ab | kde lc_ctype - Google Search
+https://forum.kde.org/viewtopic.php?f=227&t=127393 | Language of Terminal Outputs wrong in Konsole • KDE Community Forums
+https://www.google.com/search?q=lc_ctype+locale+&ie=utf-8&oe=utf-8&client=firefox-b-ab&lr=zh-utf8 | lc_ctype locale - Google Search
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=lc_ctype%20locale%20site%3Acnblogs.com&oq=lc_ctype%2520locale&rsv_pq=b87ab2ea00007335&rsv_t=b186n%2BwnMthC1SkpDeeatHs3tVtO7sjWEIjzK6zupYeO%2BTVzvWdMuiOe%2Bp8&rqlang=cn&rsv_enter=1&inputT=5531&rsv_sug3=21&rsv_sug2=0&rsv_sug4=5693 | lc_ctype locale site:cnblogs.com_百度搜索
+https://www.cnblogs.com/dolphi/p/3622420.html | locale的设定及其LANG、LC_ALL、LANGUAGE环境变量的区别 - 欢乐的程序员 - 博客园
+https://www.cnblogs.com/h2zZhou/p/5324385.html | Linux中文乱码问题终极解决方法 - h2z - 博客园
+https://www.google.com/search?q=bash_profile+zsh+bash&ie=utf-8&oe=utf-8&client=firefox-b-ab | bash_profile zsh bash - Google Search
+https://github.com/robbyrussell/oh-my-zsh/issues/3807 | .bash_profile needs to be sourced after oh-my-zsh updates · Issue #3807 · robbyrussell/oh-my-zsh
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?q=inor&ie=utf-8&oe=utf-8&client=firefox-b-ab | Problem loading page
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?q=sslocal+command+not+found&ie=utf-8&oe=utf-8&client=firefox-b-ab | sslocal command not found - Google Search
+https://www.baidu.com/s?wd=zsh%20%E8%BE%93%E5%85%A5%E6%B3%95&f=12&rsp=0&oq=zsh%20shurufa&ie=utf-8&rsv_idx=1&rsv_pq=9354d51500033270&rsv_t=14e21bbU6kdCHwEGKnjEie1oEfj2wV%2F9qMtcQV6mH4YMVgf6rz2mw5ooLRM&rqlang=cn | zsh 输入法_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=turan%20wufa%20zhongwenshurufa%20zsh%20kali&rsv_pq=f61c939000000273&rsv_t=b6e6A69Jf0OkTwPN1TWbVVyKTU7W%2Fl5PdckBteQIxHUkRNYX3izJSO6iUqg&rqlang=cn&rsv_enter=1&rsv_sug3=35&rsv_sug2=0&inputT=13683&rsv_sug4=13685 | turan wufa zhongwenshurufa zsh kali_百度搜索
+https://jingyan.baidu.com/article/adc815134f4b92f722bf7350.html | 在ubuntu下，把安装的中文输入法切换出来_百度经验
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+about:preferences#advanced | Preferences
+https://github.com/robbyrussell/oh-my-zsh | robbyrussell/oh-my-zsh: A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
+https://www.google.com/search?q=kali+%E9%85%8D%E7%BD%AE+zsh&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali 配置 zsh - Google Search
+https://www.jianshu.com/p/f813810bffc0 | kali安装oh-my-zsh - 简书
+https://www.google.com/search?q=zsh&ie=utf-8&oe=utf-8&client=firefox-b-ab | zsh - Google Search
+https://www.google.com/search?q=oh-my-zsh&ie=utf-8&oe=utf-8&client=firefox-b-ab | oh-my-zsh - Google Search
+https://www.google.com/search?q=%E5%A4%9A%E5%8F%B0+%E7%94%B5%E8%84%91+%E5%90%8C%E6%AD%A5+ssh+key&ie=utf-8&oe=utf-8&client=firefox-b-ab | 多台 电脑 同步 ssh key - Google Search
+https://www.douban.com/note/267252677/ | 多台电脑共用SSH Public/Private Key
+https://www.google.com/search?q=ssh+key+gen&ie=utf-8&oe=utf-8&client=firefox-b-ab | ssh key gen - Google Search
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/ | Generating a new SSH key and adding it to the ssh-agent - User Documentation
+https://www.jcloud.com/index | 京东云-不止于云计算
+https://www.google.com/search?q=kali+key+repeat+speed&ie=utf-8&oe=utf-8&client=firefox-b-ab | kali key repeat speed - Google Search
+https://askubuntu.com/questions/846030/how-to-set-keyboard-repeat-delay-and-speed-in-ubuntu-gnome-16-10 | settings - How to set keyboard repeat delay and speed in Ubuntu Gnome 16.10? - Ask Ubuntu
+https://www.google.com/search?client=firefox-b-ab&ei=LfuZWrquJ8XwUseUoIgD&q=+key+repeat+speed+arcch&oq=+key+repeat+speed+arcch&gs_l=psy-ab.3...15630.15630.0.16348.1.1.0.0.0.0.680.680.5-1.1.0....0...1.1.64.psy-ab..0.0.0....0.6_L7cadQtx4 | key repeat speed arcch - Google Search
+https://wiki.archlinux.org/index.php/Keyboard_configuration_in_console | Arch Linux Maintenance
+https://www.google.com/search?q=%E6%94%B9+zsh+root&ie=utf-8&oe=utf-8&client=firefox-b-ab | 改 zsh root - Google Search
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?source=hp&ei=RwCYWsiXKcXSU7mgk_gF&q=fanyi&oq=fanyi&gs_l=psy-ab.3...48405.49355.0.50004.5.5.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..5.0.0....0.Cmy3BNyjIsQ | fanyi - Google Search
+https://translate.google.cn/?hl=en | Google Translate
+https://fanyi.baidu.com/#en/zh/what%20the%20fuck | 百度翻译
+https://www.google.com/search?q=what+the+fuck&ie=utf-8&oe=utf-8&client=firefox-b-ab | what the fuck - Google Search
+https://en.wiktionary.org/wiki/what_the_fuck | what the fuck - Wiktionary
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+http://huafaplace.com/cn/ | 华发·会展行政公寓
+http://huafaplace.com/cn/about.html | 华发·会展行政公寓
+http://huafaplace.com/cn/city-introductions.html | 华发·会展行政公寓
+http://huafaplace.com/cn/rooms.html | 华发·会展行政公寓
+
+https://jingyan.baidu.com/article/eae0782743419c1fed548548.html | 给英文版Kali系统安装谷歌拼音输入法_百度经验
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=5G%20%20gupiao&rsv_pq=efce3dba0000c4dd&rsv_t=5dacBmfAp1kPr8aaJgmZJ%2B7laKsKZf7dQdVOMXei145%2FncTAySI7oN2ss2o&rqlang=cn&rsv_enter=1&rsv_sug3=5&rsv_sug2=0&inputT=2282&rsv_sug4=2283 | 5g 股票_百度搜索
+http://stock.10jqka.com.cn/zhuanti/wjgng_list/ | 5G概念股龙头-5G概念股有哪些-5G概念股一览表__同花顺金融服务网
+http://stock.10jqka.com.cn/20180208/c602922698.shtml | 北京今年将推5G网络试点 概念股集体异动
+http://stock.10jqka.com.cn/20171122/c601695582.shtml | 5G商用进程加速 相关概念股受益
+http://sc.stock.cnfol.com/ggzixun/20180225/26059492.shtml | 通信行业：重点关注5G概念龙头股 _个股资讯_市场_中金在线
+http://www.nbd.com.cn/articles/2018-02-26/1194234.html | 5G时代已经来临 哪些个股有望受益？ | 每经App
+http://www.p5w.net/stock/news/zonghe/201802/t20180228_2084629.htm | 国产芯片概念股大涨 5G和AI两大蓝海浮现_证券综合_股票频道_全景网
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E5%8F%AF%E4%B9%B0%20%20gupiao&rsv_pq=beeca26d0000d4af&rsv_t=f811Ci0H9hDYfir%2BkFrp1Eu8ZFlWyQ0P%2F8J5ajiVfstvQTpVkAV4Wd4Xsmc&rqlang=cn&rsv_enter=1&rsv_sug3=30&rsv_sug1=4&rsv_sug7=100&sug=%25E5%258F%25AF%2520%25E4%25B9%25B0%25E5%258D%2596%25E5%2590%2597&rsv_n=1&rsv_sug2=0&inputT=21516&rsv_sug4=22081 | 可买 gupiao_百度搜索
+
+https://www.zhihu.com/question/30119188?sort=created | 你是怎样美化kali linux界面的？ - 知乎
+https://www.zhihu.com/topic/19558642 | 黑客 (Hacker) - 知乎
+https://www.zhihu.com/question/267671422/answer/331159086 | 如何看待衡水中学官网被黑？ - 知乎
+http://hk305536777.blog.163.com/blog/static/2422200982014101472153259/ | 伦狗你好吗？ - hk305536777的日志 - 网易博客
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.baidu.com/ | 百度一下，你就知道
+https://www.jianshu.com/p/c172aa8535ca | 去除app内置内核，让页面加载飞起来 - 简书
+https://www.jianshu.com/p/908a3a4f5e2b | 无需root无需7.0＋，扫一扫快捷方式自己做主 - 简书
+https://www.leiphone.com/news/201705/S1VvGFPZ8hF8Oftg.html | 探秘 | 比朝鲜核武器更炸裂更神秘的，是朝鲜黑客部队 | 雷锋网
+https://www.zhihu.com/question/30119188?sort=created | 你是怎样美化kali linux界面的？ - 知乎
+http://blog.csdn.net/tao546377318/article/details/52353018 | kali切换桌面环境 - CSDN博客
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/search?client=firefox-b-ab&ei=EhmNWqi5McKe0wKa3LX4CA&q=arch+install+wangka+qudong&oq=arch+install+wangka+qudong&gs_l=psy-ab.3...1059.4871.0.5073.14.14.0.0.0.0.364.823.2-2j1.3.0....0...1.1.64.psy-ab..11.2.607...0j0i67k1j33i160k1.0.8I-yyCOkVOI | arch install wangka qudong - Google Search
+https://www.bing.com/?toWww=1&redig=3FEBC014D12141A3BDCA92E1EF18CDBE | Bing
+https://www.baidu.com/ | 百度一下，你就知道
+https://www.google.com/search?q=arch+%E5%AE%89%E8%A3%85%E7%BD%91%E5%8D%A1+%E9%A9%B1%E5%8A%A8&ie=utf-8&oe=utf-8&client=firefox-b-ab | arch 安装网卡 驱动 - Google Search
+https://www.jianshu.com/p/21667171d2b1 | archlinux bcm4360 无线网卡驱动 - 简书
+http://blog.csdn.net/bzfys/article/details/50067823 | archlinux BMC43142网卡无法驱动 - CSDN博客
+http://ocelot1985-163-com.iteye.com/blog/1333619 | ArchLinux无线网络配置 - Linux学堂 - ITeye博客
+http://blog.topspeedsnail.com/archives/10108 | Arch Linux命令行配置WiFi网络连接 – WTF Daily Blog
+https://wireless.wiki.kernel.org/ | welcome [Linux Wireless]
+
+https://www.linuxidc.com/Linux/2017-02/140920.htm | Kali Linux 安装BCM43142网卡驱动_Linux教程_Linux公社-Linux系统门户网站
+
+file:///var/lib/dkms/broadcom-sta/6.30.223.248/build/make.log | file:///var/lib/dkms/broadcom-sta/6.30.223.248/build/make.log
+https://www.google.com/search?q=+%2Fvar%2Flib%2Fdkms%2Fbroadcom-sta%2F6.30.223.248%2Fbuild%2Fmake.log+&ie=utf-8&oe=utf-8&client=firefox-b-ab | /var/lib/dkms/broadcom-sta/6.30.223.248/build/make.log - Google Search
+https://bugs.launchpad.net/ubuntu/+source/broadcom-sta/+bug/1439616 | Bug #1439616 “broadcom-sta-dkms 6.30.223.248-3 won't install on ...” : Bugs : broadcom-sta package : Ubuntu
+https://bugs.launchpad.net/ubuntu/+source/broadcom-sta/+bug/1408385 | Bug #1408385 “broadcom-sta-dkms 6.30.223.248-3: broadcom-sta ker...” : Bugs : broadcom-sta package : Ubuntu
+https://www.google.com/search?client=firefox-b-ab&ei=we2MWpCgGoG2jwPNsYTwCA&q=Bad+return+status+for+module+build+on+kernel%3A+4.14.0-kali3-amd64+%28x86_64%29+broadcom+BCM43142&oq=Bad+return+status+for+module+build+on+kernel%3A+4.14.0-kali3-amd64+%28x86_64%29+broadcom+BCM43142&gs_l=psy-ab.3...22219.22714.0.23837.2.2.0.0.0.0.271.485.2-2.2.0....0...1.1.64.psy-ab..0.0.0....0.GvivsD77Q5Q | Bad return status for module build on kernel: 4.14.0-kali3-amd64 (x86_64) broadcom BCM43142 - Google Search
+https://unix.stackexchange.com/questions/420879/how-to-install-the-proprietary-driver-wl-after-removing-the-broadcom-sta-packa?rq=1 | wifi - How to install the proprietary driver "wl" after removing the broadcom-sta package from Kali repository? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/399626/why-is-kali-linux-so-hard-to-set-up-why-wont-people-help-me | Why is Kali Linux so hard to set up? Why won't people help me? - Unix & Linux Stack Exchange
+http://pkg.kali.org/news/320121 | Kali Linux Package Tracker
+http://pkg.kali.org/pkg/broadcom-sta | Kali Linux Package Tracker - broadcom-sta
+http://ftp.us.debian.org/debian/pool/non-free/b/broadcom-sta/broadcom-sta-dkms_6.30.223.271-7_all.deb | 404 Not Found
+https://www.google.com/search?q=wget+http%3A%2F%2Fftp.us.debian.org%2Fdebian%2Fpool%2Fnon-free%2Fb%2Fbroadcom-sta%2F&ie=utf-8&oe=utf-8&client=firefox-b-ab | wget http://ftp.us.debian.org/debian/pool/non-free/b/broadcom-sta/ - Google Search
+http://ftp.us.debian.org/debian/pool/non-free/b/broadcom-sta/?C=M;O=A | Index of /debian/pool/non-free/b/broadcom-sta
+
+http://tcshare.org/archives/1133 | kali linux 安装 BCM43227网卡驱动 - 每天一点经济学-于小嘿
+https://www.google.com/search?client=firefox-b&biw=1366&bih=600&tbs=qdr%3Ay&ei=Ou2MWs6fB8PdjAOWz6awDA&q=Kali+Linux++%22BCM43142%22+&oq=Kali+Linux++%22BCM43142%22+&gs_l=psy-ab.3..0i22i30k1l4.3896.6908.0.8061.6.6.0.0.0.0.266.496.2-2.2.0....0...1.1.64.psy-ab..4.1.265....0.fe4rFgbcq2c | Kali Linux "BCM43142" - Google Search
+http://www.chongchonggou.com/g_608650852.html | Kali Rolling 2016.1 安装无线网卡驱动 - 虫虫购
+http://blog.csdn.net/u012015746/article/details/63255751 | 安装Broadcom无线网卡驱动 - CSDN博客
+
+https://wiki.centos.org/zh/HowTos/Laptops/Wireless/Broadcom | zh/HowTos/Laptops/Wireless/Broadcom - CentOS Wiki
+
+http://theinternetguy.freshdesk.com/support/solutions/articles/1000238877-installing-broadcom-bcm43142-driver-on-kali-linux-2016-1-through-2017-3 | Installing Broadcom BCM43142 driver on Kali Linux 2016.1 through 2017.3 : helpdesk@the-internet-guy.com
+https://www.broadcom.cn/ | Broadcom Limited | Connecting Everything
+https://www.broadcom.com/support/download-search/?pf=Wireless+LAN+Infrastructure | Documents and Downloads
+
+https://www.google.com/ | Problem loading page
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=0&rsv_idx=1&tn=baidu&wd=%E6%97%B6%E9%97%B4&rsv_pq=8845173b00009877&rsv_t=59bb%2FTOF0pD7TiMpF%2BLzTfMEBCBpbkNSy%2F3vcQbWxcnDzPQwvMFVfLTUWPQ&rqlang=cn&rsv_enter=1&rsv_sug3=5&rsv_sug1=1&rsv_sug7=100&rsv_sug2=0&prefixsug=shij&rsp=0&inputT=2874&rsv_sug4=2965 | 时间_百度搜索
+https://www.google.com/search?q=The+page+you+are+trying+to+view+cannot+be+shown+because+the+authenticity+of+the+received+data+could+not+be+verified.+shadowsocks+google&ie=utf-8&oe=utf-8&client=firefox-b-ab | The page you are trying to view cannot be shown because the authenticity of the received data could not be verified. shadowsocks google - Google Search
+https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwirgKeuhrbZAhUNS2MKHfIDALsQPQgD | Google
+https://www.google.com/search?q=Kali+Linux+BCM43142&client=firefox-b-ab&source=lnt&tbs=qdr:y&sa=X&ved=0ahUKEwiWht3JhrbZAhUK1GMKHZgWBWQQpwUIHw&biw=1366&bih=600 | Kali Linux BCM43142 - Google Search
+https://forums.kali.org/showthread.php?29587-Broadcom-BCM43142-Drivers-on-Kali-Linux | Broadcom BCM43142 Drivers on Kali Linux
+
+https://www.bing.com/search?q=%E5%8F%AF%E4%BB%A5+twitter+%E4%B8%8D%E5%8F%AF%E4%BB%A5+google&qs=n&form=QBLH&sp=-1&pq=%E5%8F%AF%E4%BB%A5+twitter+%E4%B8%8D%E5%8F%AF%E4%BB%A5+google&sc=0-14&sk=&cvid=5F3B59B6FAF74A7CBA95B515C1A41D33 | 可以 twitter 不可以 google - Bing
+https://about.twitter.com/ | About
+https://www.baidu.com/ | 百度一下，你就知道
+https://www.bing.com/search?q=firefox+shadowsocks+google&qs=n&sp=-1&pq=firefox+shadowsocks+google&sc=0-24&sk=&cvid=609D9FC6B8884A0C8C0C98D2BBB4CFE1&first=11&FORM=PORE | firefox shadowsocks google - Bing
+https://www.crifan.com/windows_use_shadowsocks_on_firefox_foxyproxy_standard_and_chrome_proxy_switchysharp_and_ie/ | 【记录】在Windows平台下的Firefox+Chrome+IE中使用Shadowsocks – 在路上
+https://www.atgfw.org/2015/01/firefoxfoxyproxy.html | Firefox高级的代理管理工具FoxyProxy介紹 - 翻牆網 ATGFW.ORG
+http://www.irryy.com/17.html | Shadowsocks使用教程（win平台chrome浏览器） – 折腾户
+https://www.youtube.com/ | YouTube
+
+https://www.google.com/ | Problem loading page
+https://www.bing.com/search?q=secure+connection+failed+firefox+google+shadowsocks+lianjie&qs=n&form=QBRE&sp=-1&pq=secure+connection+failed+firefox+google+shadowsocks+lianjie&sc=0-52&sk=&cvid=468F6B3979B14641A87469BA6755EB54 | secure connection failed firefox google shadowsocks lianjie - Bing
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.google.com/ | Problem loading page
+https://support.mozilla.org/en-US/kb/what-does-your-connection-is-not-secure-mean | What does "Your connection is not secure" mean? | Firefox Help
+https://support.mozilla.org/en-US/kb/secure-connection-failed-error-message | Troubleshoot the "Secure Connection Failed" error message | Firefox Help
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.bing.com/search?q=google&qs=n&form=QBLH&sp=-1&pq=google&sc=0-0&sk=&cvid=10D96175CC49457ABB4605005BD2D9A8&ensearch=1 | google - 国际版 Bing
+http://www.google.com/ | Error
+https://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp | Problem loading page
+
+about:addons | Add-ons Manager
+https://www.broadcom.cn/cs/ContentServer?c=AVG_Product_C&childpagename=AVG2%2FAVG2_Layout&pagename=AVG2_Wrapper&cid=1211169931313 | 404 : Page Not Found
+https://www.broadcom.cn/ | Broadcom Limited | Connecting Everything
+https://www.google.com/search?q=kali+install+BCM43142&ie=utf-8&oe=utf-8&client=firefox-b-ab | Problem loading page
+https://cn.bing.com/search?q=kali+install+BCM43142&qs=n&form=QBRE&sp=-1&pq=kali+install+bcm43142&sc=0-21&sk=&cvid=8BFC3811806C4B4FA48686334B2577D9 | kali install BCM43142 - 国内版 Bing
+https://www.google.com/search?q=test&ie=utf-8&oe=utf-8&client=firefox-b-ab | Problem loading page
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://cn.bing.com/search?q=kali+install+ss&qs=n&form=QBLH&sp=-1&pq=undefined&sc=0-15&sk=&cvid=A43788256AED44A9B62867992A67AE9C | kali install ss - 国内版 Bing
+http://www.freebuf.com/sectool/95167.html | Kali 2.0安装与使用指南 - FreeBuf互联网安全新媒体平台 | 关注黑客与极客
+http://www.cnblogs.com/renfanzi/p/6212943.html | http://www.cnblogs.com/renfanzi/p/6212943.html
+https://blog.whsir.com/post-883.html | kali linux安装ss客户端shadowsocks-qt5 - 吴昊博客
+http://blog.csdn.net/mickeymouse1928/article/details/70595157 | Kali下安装Shadowsocks与利用ss和ProxyChains实现任意应用代理 - MickeyMouse1928的博客 - CSDN博客
+https://www.broadcom.cn/ | Broadcom Limited | Connecting Everything
+https://cn.bing.com/search?q=undefined+symbol%3A+EVP_CIPHER_CTX_cleanup&qs=n&form=QBLH&sp=-1&pq=undefined+symbol%3A+evp_cipher_ctx_cleanup&sc=0-40&sk=&cvid=7AE7FCA737DF4387BC5CF67877B66421 | undefined symbol: EVP_CIPHER_CTX_cleanup - 国内版 Bing
+https://kionf.com/2016/12/15/errornote-ss/ | ShadowSocks启动报错undefined symbol EVP_CIPHER_CTX_cleanup | Kionf
+about:preferences#advanced | Preferences
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://forums.kali.org/showthread.php?30229-how-to-install-wireless-BCM43142-driver | how to install wireless BCM43142 driver ?
+https://zhidao.baidu.com/question/200033996076878405.html | Kali Linux如何安装BCM43142网卡驱动？_百度知道
+https://zhidao.baidu.com/question/1575243544535316660.html?entry=qb_ihome_tag | kali linux 安装无线网卡驱动！！_百度知道
+http://www.chokepoint.net/2014/04/installing-broadcom-bcm43142-drivers-on.html | ChokePoint: Installing Broadcom BCM43142 Drivers on Kali Linux
+https://cn.bing.com/search?q=broadcom-wl+kali+qudong&qs=n&form=QBLH&sp=-1&pq=broadcom-wl+kali+qudong&sc=0-23&sk=&cvid=0A9D0ACA1EB34976A546079C4EC182B7 | broadcom-wl kali qudong - 国内版 Bing
+https://wiki.archlinux.org/index.php/Broadcom_wireless_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | Broadcom wireless (简体中文) - ArchWiki
+https://cn.bing.com/search?q=modprobe%3A+FATAL%3A+Module+wl+not+found+in+directory+%2Flib%2Fmodules%2F4.14.0-kali3-amd64&qs=n&form=QBLH&sp=-1&pq=modprobe%3A+fatal%3A+module+wl+not+found+in+directory+%2Flib%2Fmodules%2F4.14.0-kali3-amd64&sc=0-81&sk=&cvid=5EC04E9173FF4E01A9D9820302C821E3 | modprobe: FATAL: Module wl not found in directory /lib/modules/4.14.0-kali3-amd64 - 国内版 Bing
+https://superuser.com/questions/1229541/modprobe-wl-error-in-kali-linux-rolling | wireless networking - modprobe wl error in kali linux rolling - Super User
+https://stackoverflow.com/questions/3140478/fatal-module-not-found-error-using-modprobe | linux - "FATAL: Module not found error" using modprobe - Stack Overflow
+
+https://www.linuxidc.com/Linux/2017-02/140920.htm | Kali Linux 安装BCM43142网卡驱动_Linux教程_Linux公社-Linux系统门户网站
+http://blog.csdn.net/bleachswh/article/details/51427559 | Kali Rolling 2016.1 安装无线网卡驱动 - CSDN博客
+http://bbs.chinaunix.net/thread-4259663-1-1.html | Kali Linux 安装BCM43142网卡驱动 - Linux系统管理-ChinaUnix.net
+https://github.com/lzh-fork/broadcom-wl | Page not found · GitHub
+https://github.com/akrasic/broadcom-wl | GitHub - akrasic/broadcom-wl
+https://www.weixingon.com/s/kali+%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8 | kali无线网卡驱动安装_kali+无线网卡驱动
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+
+http://cn.bing.com/search?q=E%3A+Couldn%27t+find+any+package+by+glob+%27linux-headers-4.9.0-kali3-amd64%27&qs=n&form=QBLH&sp=-1&pq=e%3A+couldn%27t+find+any+package+by+glob+%27linux-headers-4.9.0-kali3-amd64%27&sc=0-70&sk=&cvid=6BAFF29CAC224AD984170764CE29AF9B | E: Couldn't find any package by glob 'linux-headers-4.9.0-kali3-amd64' - 国内版 Bing
+http://hackersgrid.com/2017/08/solved-for-good-unable-to-locate.html | [Solved] Unable to locate package linux-headers | How to Install Kali 2017 Headers | Install Virtual Box - Hackers Grid
+https://kionf.com/2017/07/07/kali-vmware/ | Kali Linux 2017.1 安装vmware 报错 | Kionf
+https://wyldeplayground.net/kernel-headers-for-version-4-9-0-kali3-amd64-not-found-help/ | Kernel Headers For Version 4.9.0-kali3-amd64 Not Found...HELP! [on hold] - Wyldeplayground dotnet
+
+http://cn.bing.com/search?q=kali+wifi+%e9%a9%b1%e5%8a%a8&FORM=AWRE | kali wifi 驱动 - 国内版 Bing
+https://jingyan.baidu.com/article/e8cdb32b32f5f737052badbd.html | kali安装无线网卡驱动 型号BCM42143_百度经验
+http://cn.bing.com/search?q=linux+%e6%9f%a5%e7%9c%8b%e7%bd%91%e5%8d%a1%e5%9e%8b%e5%8f%b7&qs=AS&pq=linux+%e6%9f%a5%e7%9c%8b+wangka&sk=AS1&sc=8-15&cvid=A70A6245E1F946EAA0D372970C17F672&FORM=QBLH&sp=2 | linux 查看网卡型号 - 国内版 Bing
+https://jingyan.baidu.com/article/fcb5aff75de13bedaa4a71cf.html | Linux如何查看网卡型号_百度经验
+http://blog.chinaunix.net/zt/1052/linuxer_1052257.shtml | linux查看网卡型号、驱动版本、队列数的相关推荐_ChinaUnix博客
+http://blog.csdn.net/lzh984294471/article/details/52250891 | kali rolling linux 安装BCM43142网卡驱动 - CSDN博客
+https://github.com/akrasic/broadcom-wl | GitHub - akrasic/broadcom-wl
+
+file:///usr/share/kali-defaults/web/homepage.html | Kali Linux, an Offensive Security Project
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=0&rsv_idx=1&tn=baidu&wd=linux%20%E5%8F%8C%E7%B3%BB%E7%BB%9F%20%E6%8C%82%E8%BD%BD%20windows%20%E5%88%86%E5%8C%BA&rsv_pq=e00b817d00000fad&rsv_t=5a35NsFHrZSJ5I0F89n4lZQfXmaZgY%2FLxuQjKfN8i1qAz9lg%2BR1BbRksy8Y&rqlang=cn&rsv_enter=1&rsv_sug3=32&rsv_sug1=34&rsv_sug7=100&rsv_sug2=0&prefixsug=linux%2520%25E5%258F%258C%25E7%25B3%25BB%25E7%25BB%259F%2520%25E6%258C%2582%25E8%25BD%25BD%2520windows%2520fen&rsp=0&inputT=15437&rsv_sug4=15438 | linux 双系统 挂载 windows 分区_百度搜索
+http://blog.csdn.net/yaoxingshuai/article/details/50563245 | 给双系统的ubuntu挂载windows的硬盘 - CSDN博客
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=0&rsv_idx=1&tn=baidu&wd=kali%E6%BA%90%202018&rsv_pq=bc6435c300004d92&rsv_t=c272OI2mhWSkUbJA4CmNADOqXhBewgCE7y5DYNzAPywZkpN1tHfMLDhcdCs&rqlang=cn&rsv_enter=1&rsv_sug3=19&rsv_sug1=23&rsv_sug7=100&sug=kali%25E6%25BA%2590&rsv_n=1&rsv_sug2=0&prefixsug=kali%25E6%25BA%2590%25202018&rsp=0&inputT=12974&rsv_sug4=12975 | kali源 2018_百度搜索
+https://www.cnblogs.com/dudulukeyxian/p/8436604.html | Kali Linux入坑之基本配置（2018.1） - 小碧 - 博客园
+http://blog.csdn.net/github_37216944/article/details/72742945 | Kali 2 Kali 2018更新源 - CSDN博客
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=The%20following%20signatures%20were%20invalid%20kali%20ED444FF07D8D0BF6&oq=The%2520following%2520signatures%2520were%2520invalid%2520kali&rsv_pq=ff4737dc00005183&rsv_t=5152HWlFYKw6xYVSG93%2FMFrN7P0j3ut7kLQeq%2Ftgx4LvksUroHVou7vzIk8&rqlang=cn&rsv_enter=1&inputT=7569&rsv_sug3=4&rsv_n=2&rsv_sug2=0&rsv_sug4=17375 | The following signatures were invalid kali ED444FF07D8D0BF6_百度搜索
+http://blog.csdn.net/yalecaltech/article/details/79300282 | kali无法更新 - yalecaltech的博客 - CSDN博客
+https://my.oschina.net/emptytimespace/blog/83633 | linux 更换 软件源后 GPG错误 - 无明时空的个人页面
+http://blog.csdn.net/zgrjkflmkyc/article/details/9262233 | 更新Ubuntu时报错。 原因是相应的KEY有问题 - CSDN博客
+http://cn.bing.com/search?q=kali%e6%ba%902017&filters=ex1%3a%22ez5_17572_17582%22&qpvt=kali%e6%ba%902017 | kali源2017 - 国内版 Bing
+http://cn.bing.com/search?q=kali2017%e6%9b%b4%e6%96%b0%e6%ba%90&FORM=QSRE4 | kali2017更新源 - 国内版 Bing
+https://www.jianshu.com/p/7ac106afb8fd | kali2017添加国内更新源 + 配置并开启sshd - 简书

@@ -1,0 +1,500 @@
+ip link set wlp0s20u1 up
+dhcpcd 
+ip link
+ip link
+ip link set wlp0s20u1 up
+dhcpcd 
+rfkill unblock all
+ip link set wlp0s20u1 down
+wifi-menu 
+watch ping -c 2 baidu.com
+rfkill unblock all
+ip link
+ip link set wlp0s20u1 up
+wifi-menu 
+ping baidu.com
+ping baidu.com
+ip link set wlp0s20u1 down
+ip link set enp2s0 up
+ip link set enp2s0 down
+ip link set wlp0s20u1 up
+dhcpcd 
+ping baidu.com
+ip link set enp2s0 down
+ping baidu.com
+tldr pacman
+man pacman
+ip link set enp2s0 up
+ping baidu.com
+dhcpcd 
+ping baidu.com
+pacman -Syu
+ping baidu.com
+reboot
+wifi-menu 
+ip link
+wifi-menu 
+watch ping -c 2 baidu.com
+vim
+PWD
+pwd
+pacman -S git 
+ping baidu.com
+w
+wifi-menu 
+wifi-menu 
+wifi-menu 
+ip link
+wifi-menu 
+wifi-menu 
+wifi-menu 
+wifi-menu 
+wifi-menu 
+ip link
+reboot
+ip link
+shutdown now
+wifi-menu 
+ip link
+ip link
+ip link
+re
+ f6g7~h8kl-~~='\
+ip link
+reboot
+ip link
+wifi-menu 
+pacman -S git
+git clone https://github.com/sqsgalaxys/meConf.git
+git clone https://github.com/sqsgalaxys/meConfEx.git
+pacman -S ranger
+ranger
+cd meConf
+man git commit
+man git
+cd ..
+vim rachSetup.md 
+vim /etc/pacman.conf 
+pacman -Syu yaourt
+pacman -S i3wm
+pacman -Sy yaourt
+pacman -S i3wm
+speaker-test -c 2
+pacman -S i3 dmenu
+cp /etc/i3/config ~/.i3/config
+mkdir ~/.i3/
+cp /etc/i3/config ~/.i3/config
+yaourt -S google-chrome
+i3
+exec i3
+vim .xinitrc
+startx 
+pacman -S xterm
+top
+wifi-menu 
+ranger
+startx 
+startx 
+pacman -S firefox
+pacman -S firefox
+reboot
+wifi-menu 
+curl ip.sb
+LD
+ranger
+ranger
+vim .xinitrc 
+pacman -S wqy-zenhei wqy-bitmapfont
+ranger
+pip install 
+cd
+vim .Xmodmap
+vi .Xmodmap
+vim
+cd
+vim todo
+ranger
+cd
+vim
+rm .Xmodmap
+mv .Xmodmapx .Xmodmap
+cd
+vim ss.conf
+sslocal -c ss.conf 
+vim /usr/lib/python3.6/site-packages/shadowsocks/encrypt.p
+vim /usr/lib/python3.6/site-packages/shadowsocks/encrypt.py
+vim /usr/lib/python3.6/site-packages/shadowsocks/crypto/openssl.py
+vim /usr/lib/python3.6/site-packages/shadowsocks/encrypt.py
+vim /usr/lib/python3.6/site-packages/shadowsocks/encrypt.py
+vim /usr/lib/python3.6/site-packages/shadowsocks/crypto/openssl.py
+sslocal -c ss.conf 
+pip
+pacman -S pip
+pacman -S python-pip
+pip install shadowsocks
+mount /dev/sda2 /mnt
+cd /mnt/
+ranger
+ranger
+xmodmap
+vim .Xmodmap 
+vim .xinitrc 
+pacman -S Xmodmap
+pacman -S xmodmap
+c
+sslocal -c ss.conf 
+vim cliCaps2Ctrl.map
+
+vim cliCaps2Ctrl.map
+loadkeys cliCaps2Ctrl.map
+sslocal -c ss.conf 
+sslocal -c ss.conf 
+sslocal -c ss.conf 
+
+
+dumpkeys | head -l >  cliCaps2Ctrl.mapEx
+dumpkeys | head -l >  cliCaps2Ctrl.mapEx
+dumpkeys | head -1 >  cliCaps2Ctrl.mapEx
+cat cliCaps2Ctrl.mapEx
+vim cliCaps2Ctrl.map
+LS
+cat cliCaps2Ctrl.mapEx 
+vim cliCaps2Ctrl.map
+loadkeys cliCaps2Ctrl.mapEx 
+sslocal -c ss.conf 
+loadkeys -d
+startx 
+reboot
+pacman -S fcitx-im
+fcitx &
+sslocal -c ss.conf 
+vim todo 
+vim .xinitrc 
+sslocal -c ss.conf 
+sslocal -c ss.conf 
+sslocal -c ss.conf 
+vim .Xresources
+fcitx &
+sslocal -c ss.conf 
+jobs
+fg
+[root@meArchLinux ~]# fcitx &
+[1] 3615
+[root@meArchLinux ~]# (INFO-3617 addon.c:151) 加载附加组件配置文件: fcitx-fullwidth-char.conf
+(INFO-3617 addon.c:151) 加载附加组件配置文件: fcitx-pinyin.conf
+(INFO-3617 addon.c:151) 加载附加组件配置文件: fcitx-classic-ui.conf
+(INFO-3617 addon.c:151) 加载附加组件配置文件: fcitx-dbus.conf
+I/O warning : failed to load external entity "/usr/share/xml/iso-codes/iso_639.xml"
+I/O warning : failed to load external entity "/usr/share/xml/iso-codes/iso_3166.xml"
+I/O warning : failed to load external entity "/usr/share/xml/iso-codes/iso_639.xml"
+I/O warning : failed to load external entity "/usr/share/xml/iso-codes/iso_3166.xml"
+(ERROR-3617 ime.c:432) fcitx-keyboard-cm-mmuock already exists
+(ERROR-3617 ime.c:432) fcitx-keyboard-us already exists
+[3722:3722:0222/044025.327884:ERROR:zygote_host_impl_linux.cc(90)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open:行854: x-www-browser: 未找到命令
+[root@meArchLinux ~]# 
+[root@meArchLinux ~]# fcitx &
+[1] 3615
+[root@meArchLinux ~]# (INFO-3617 addon.c:151) 加载附加组件配置文件: fcitx-fullwidth-char.conf
+(INFO-3617 addon.c:151) 加载附加组件配置文件: fcitx-pinyin.conf
+(INFO-3617 addon.c:151) 加载附加组件配置文件: fcitx-dbus.conf
+I/O warning : failed to load external entity "/usr/share/xml/iso-codes/iso_639.xml"
+I/O warning : failed to load external entity "/usr/share/xml/iso-codes/iso_3166.xml"
+I/O warning : failed to load external entity "/usr/share/xml/iso-codes/iso_639.xml"
+I/O warning : failed to load external entity "/usr/share/xml/iso-codes/iso_3166.xml"
+(ERROR-3617 ime.c:432) fcitx-keyboard-cm-mmuock already exists
+(ERROR-3617 ime.c:432) fcitx-keyboard-us already exists
+[3722:3722:0222/044025.327884:ERROR:zygote_host_impl_linux.cc(90)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open:行854: x-www-browser: 未找到命令
+[root@meArchLinux ~]# 
+timedatectl set-ntp true
+im-config
+fcitx &
+sslocal -c ss.conf 
+sslocal -c ss.conf 
+
+wifi-menu 
+startx 
+startx 
+startx 
+ps -ef | grep fl
+vim .xinitrc 
+startx 
+reboot
+fcitx-config-gtk3
+pacman -S fcitx-gtk2
+fcitx &
+vim .xinitrc 
+sslocal -c ss.conf 
+wifi-menu 
+sslocal -c ss.conf 
+fcitx &
+vim /root/.config/fcitx/config
+pacman -S fcitx-im fcitx-sunpinyin fcitx-cloudpinyin fcitx-configtool
+sslocal -c ss.conf 
+fcitx &
+fcitx &
+sslocal -c ss.conf 
+yaourt -S broadcom-wl-dkms
+pacman -S linux-headers
+yaourt -S broadcom-wl-dkms
+fcitx &
+sslocal -c ss.conf 
+ls
+ls -al
+lsblk
+lspci -k
+lspci -v
+pacman -S alsa-utils xf86-video-vesa xorg xorg-xinit
+pacman -S dialog wpa_supplicant netctl wireless_tools wpa_actiond
+watch ls
+ls
+pacman -S tmux
+loadkeys cliCaps2Ctrl.mapEx 
+
+
+loadkeys cliCaps2Ctrl.mapEx 
+startx 
+startx 
+vim .xinitrc 
+startx 
+ls
+vim .bashrc
+vim .bash_history 
+cd /etc/netctl/
+ls
+vim .
+reboot
+jobs
+ls
+cd input/
+ls
+ps -ef | grep fl
+nohup fcitx & &
+nohup fcitx &
+ls
+tail -f nohup.out 
+wifi-menu 
+ping baidu.com
+dhcpcd 
+ping baidu.com
+mkdir input
+cd .
+cd input/
+nohup fcitx &
+tail -f nohup.out 
+cd ..
+mkdir ss
+mv ss.conf  ss
+cd ss
+nohup sslocal -c ss.conf &
+cd ..
+cp .bash_history .bash_history_backup
+startx 
+reboot
+cd ../input/
+nohup fcitx &
+tail -f nohup.out 
+cd ..
+vim todo 
+pacman -S alsa-utils
+[root@meArchLinux ss]# pacman -S alsa-utils
+warning: alsa-utils-1.1.5-2 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+Packages (1) alsa-utils-1.1.5-2
+Total Installed Size:  1.99 MiB
+Net Upgrade Size:      0.00 MiB
+alsamixer 
+alsamixer 
+alsamixer 
+alsamixer 
+amixer set channel 0% mute
+vim ~/.bash_history
+chmod 4755 /usr/bin/beep
+wifi-menu 
+ping baidu.com
+dhcpcd 
+ping baidu.com
+ls
+cd ss/
+ls
+nohup sslocal -c ss.conf &
+
+startx 
+cd
+loadkeys cliCaps2Ctrl.mapEx 
+amixer 
+reboot
+cd input/
+nohup fcitx &
+tail -f nohup.out 
+cd ../ss
+
+tail -f nohup.out 
+wifi-menu 
+ping baidu.com
+dhcpcd 
+ping baidu.com
+alsamixer 
+xset -b off
+setterm -blength 0
+echo "blacklist pcspkr" > /etc/modprobe.d/nobeep.conf
+loadkeys cliCaps2Ctrl.mapEx 
+startx 
+reboot
+ls
+loadkeys cliCaps2Ctrl.mapEx 
+loadkeys -D
+loadkeys -d
+loadkeys cliCaps2Ctrl.mapEx 
+reboot
+ls
+ls
+ls
+ls
+vim .bash_history
+alsamixer 
+pacman -S urxvt
+pacman -S urxvt
+pacman -S screenfeatch
+ping baidu.com
+pacman -S rxvt-unicode
+cd ss
+nohup sslocal -c ss.conf &
+cd ../input/
+nohup fcitx &
+jobs
+wifi-menu 
+ping baidu.com
+pacman -S compton
+compton
+vim ~/.Xresources
+cal
+ls
+vim .Xresources 
+compton
+ls
+vim .config/i3/config 
+urxvt -h
+cd ../input/
+cd input/
+nohup fcitx &
+cd
+vim .Xresources 
+~/.Xresources 
+xrdb ~/.Xresources 
+vim cal
+cal
+date
+
+xrdb .Xresources 
+vim .Xresources 
+xrdb .Xresources 
+ls
+vim
+vim .Xresources 
+xrdb .Xresources 
+ls
+vim .Xresources 
+xrdb .Xresources 
+ls
+vim .Xresources 
+xrdb .Xresources 
+cal
+compton
+ls
+ls
+xrdb .Xresources 
+vim .Xresources 
+ls
+
+xrdb .Xresources 
+ls
+pacman -S ttf-mononoki
+xrdb .Xresources 
+vim .Xresources 
+xrdb .Xresources 
+compton
+mkdir compton
+cd compton
+nohup compton &
+ls
+cd
+vim .xinitrc 
+cd input/
+nohup fcitx &
+ls
+fc-list : file
+yaourt -S ttf-mononoki
+xrdb .Xresources 
+mkdir ~/.fonts/
+cd ~/.fonts/
+ls
+yaourt -S ttf-mononoki
+yaourt -S ttf-mononoki
+ls
+vim .Xresources 
+tmux
+tmux
+yaourt -S ttf-mononoki
+vim .Xresources 
+xrdb .Xresources 
+yaourt -S ttf-mononoki
+yaourt -S ttf-mononoki
+vim .Xresources 
+xrdb .Xresources 
+yaourt -S ttf-mononoki
+xrdb .Xresources 
+yaourt -S ttf-mononoki
+cd input/
+nohup fcitx &
+cd ..
+ls
+cd compton/
+nohup compton &
+locale
+/etc/locale.gen
+vim /etc/locale.gen
+locale-gen
+locale
+locale -a
+mkdir ~/.fonts
+cd ~/.fonts
+ls
+cd
+ls
+vim ~/.fonts.conf
+pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji
+pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji
+ls
+vim .fonts.conf 
+pacman -S noto-fonts
+pacman -S noto-fonts-cjk
+loadkeys cliCaps2Ctrl.mapEx 
+startx 
+ls
+startx
+startx
+ls
+ranger
+firefox 
+loadkeys cliCaps2Ctrl.mapEx 
+startx
+startx
+startx
+startx
+startx
+reboot
+ls
+vim .Xresources 
+xrdb .Xresources 
+vim .Xresources
+xrdb .Xresources 
+ls
+vim .Xresources 
+yaourt -S ttf-mononki
+yaourt -S ttf-mononoki
+echo 'export VISUAL="vim"' >> .bashrc
+cat .bashrc
+yaourt -S ttf-mononoki

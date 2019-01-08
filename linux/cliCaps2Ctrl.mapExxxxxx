@@ -1,0 +1,5 @@
+keymaps 0-2,4-5,8,12
+keycode 58 = Control # This make Caps act as Ctrl
+keycode 29 = Caps_Lock # This make Ctrl act as Caps
+# alt_is_meta # This fixes the Alt key
+

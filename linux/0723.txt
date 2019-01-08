@@ -1,0 +1,123 @@
+
+
+
+
+
+done:
+设置触摸板点触代替点按
+xinput set-prop 14 293 1
+
+todo:
+网页复制内容粘贴到 vim 中
+vim tmux ... 剪切板之间的关系
+登录终端 修改 ctrl 按键
+config emacs
+
+----------------------------------------
+
+[Unit]
+Description=My-demo Service
+                                                                                                                                      
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /root/test.sh
+StandardOutput=syslog
+StandardError=inherit
+ 
+[Install]
+WantedBy=multi-user.target
+
+
+
+---------------------
+
+
+
+本文来自 fu_wayne 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/fu_wayne/article/details/38018825?utm_source=copy
+# kali 0723 start
+
+timedatectl set-local-rtc 1 --adjust-system-clock
+
+
+nmcli dev wifi connect "SSID" password "PASSWORD" ifname wlan0
+
+nmcli dev wlan0 connect "Tenda" password "13395273876" ifname wlan0
+
+
+
+https://www.cnblogs.com/supermarx/p/7521187.html
+
+取消 kdm 登录,手动 console 登录:
+root 744748744
+[[SOLVED] Disable kde / x server autostart 10.04](https://ubuntuforums.org/showthread.php?t=1519919)
+
+
+mv -f /etc/init/kdm.conf /etc/init/kdm.conf-disabled
+mv /etc/init/kdm.conf /etc/init/kdm.conf-disabled
+
+
+/etc/rc.d
+
+
+/etc/init.d
+
+shell rc file
+
+/etc/rc.d/rc.local.
+
+
+
+loadkeys cliCaps2Ctrl.mapExxxxxx 
+/etc/bash.bashrc
+
+
+
+/etc/profile
+
+[Linux 添加开机启动项的三种方法-php程序员的笔记](http://www.phpernote.com/linux/1247.html)
+
+（1）编辑文件 /etc/rc.local
+
+输入命令：vim /etc/rc.local 将出现类似如下的文本片段：
+
+#!/bin/sh
+#
+# This script will be executed *after* all the other init scripts.
+# You can put your own initialization stuff in here if you don't
+# want to do the full Sys V style init stuff.
+
+touch /var/lock/subsys/local
+/etc/init.d/mysqld start #mysql开机启动
+/etc/init.d/nginx start #nginx开机启动
+/etc/init.d/php-fpm start #php-fpm开机启动
+/etc/init.d/memcached start #memcache开机启动
+
+# 在文件末尾（exit 0之前）加上你开机需要启动的程序或执行的命令即可（执行的程序需要写绝对路径，添加到系统环境变量的除外），如：
+
+/usr/local/thttpd/sbin/thttpd  -C /usr/local/thttpd/etc/thttpd.conf
+ 
+（2）自己写一个shell脚本
+
+
+[linux 下编辑 rc.local 设置开机启动 - 脱水的a鱼 - CSDN博客](https://blog.csdn.net/qq_27977257/article/details/54313166)
+
+设置开机启动示例:
+# touch /etc/init.d/rc.local
+设置为可执行:
+# chmod +x /etc/init.d/rc.local
+
+
+
+
+
+
+! rm /etc/init.d/rc.local
+
+
+/usr/bin/loadkeys /root/.cliCaps2Ctrl.mapExxxxxx 
+
+
+
+
+
+# kali 0723 end

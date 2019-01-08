@@ -1,0 +1,662 @@
+apt install tmux
+apt update
+apt-get install tmux
+apt-get update
+cd ..
+cd /mnt/
+cd Users/
+cd VIM/
+cd sqsga/OneDrive/
+exit
+fdisk -lu
+find . -name "*Kali*"
+find . -name "*ali*"
+find . -name "*kali*"
+grub-install --recheck /dev/sda
+grub-mkconfig -o /boot/grub/grub.cfg 
+grup-install --recheck /dev/sda
+ls
+ls -l /dev/sd*
+ls /dev
+mount /dev/sda2 /mnt
+open .
+start .
+vim ./VIM/TeamTextGit/kaliSetup.txt
+vim /etc/apt/sources.list
+apt install ranger
+vim
+lspci | grep -i ethernet
+lspci
+lspci | grep -i BCM4214
+lspci | grep -i BCM4
+
+apt-get update
+lspci | grep -i BCM4
+apt-get update
+tmux
+vim
+
+vim
+apt-get dist-update
+apt-get dist-upgrade
+reboot
+vim
+ls
+vim ka
+vim KaliSetUp.md 
+apt-get install linux-headers-$(uname -r)
+apt-get install broadcom-sta-dkms
+reboot
+apt-get dist-upgrade
+apt-get update
+vim /etc/apt/sources.list
+apt-get update
+apt-get install linux-headers-$(uname -r|sed 's,[^-]*-[^-]*-,,') broadcom-sta-dkms
+modprobe -r b44 b43 b43legacy ssb brcmsmac
+modprobe wl
+pip install shadowsocks
+vim ss.conf
+sslocal -c ss.conf 
+vim /usr/local/lib/python2.7/dist-packages/shadowsocks/crypto/openssl.py
+sslocal -c ss.conf 
+ls
+vim ss.conf 
+sslocal -c ss.conf 
+vim /usr/local/lib/python2.7/dist-packages/shadowsocks/crypto/openssl.py
+sslocal -c ss.conf 
+vim
+vim gui-config.json 
+mount /dev/sda2 /mnt
+ranger
+apt-get uninstall broadcom-sta-dkms
+apt-get remove broadcom-sta-dkms
+apt-get install broadcom-sta-dkms
+vim /var/lib/dkms/broadcom-sta/6.30.223.248/build/make.log
+tmux
+sslocal -c ss.conf 
+ls
+vim KaliSetUp.md 
+sslocal -c ss.conf 
+tmux
+apt-get update
+ping baidu.com
+apt-get update
+apt-get dist-upgrade
+dpkg --configure -a
+apt-get update
+apt-get dist-upgrade
+reboot
+modprobe wl
+modprobe -r b44 b43 b43legacy ssb brcmsmac bcma
+modprobe wl
+apt-get update
+
+apt-get update && apt-get upgrade
+vim /etc/apt/sources.list
+apt-get update && apt-get upgrade
+apt-get install synaptic -y
+ls
+apt-get remove broadcom-sta-dkms
+lspci | grep -i BCM4
+lsmod | grep "brcmsmac\|ssb\|wl\|b43\|bcma"
+ls
+cd Downloads/
+ls
+tar -zxvf hybrid-v35.tar.gz 
+ls
+rm *
+ls
+tar -zxvf hybrid-v35.tar.gz 
+ls
+rm *
+ls
+mkdir hybrid_tmp
+cp hybrid-v35.tar.gz hybrid_tmp/
+cd hybrid_tmp/
+ls
+tar -zxvf hybrid-v35.tar.gz 
+ls
+ll
+rm hybrid-v35.tar.gz 
+ls
+tar zxvf hybrid-v35-nodebug-pcoem-6_30_223_141.tar.gz 
+ls
+cp ../kernel_3.10.patch_.tar.gz .
+ls
+tar zxvf kernel_3.10.patch_.tar.gz 
+ls
+patch -p1 ./src/wl/sys/wl_linux.c  wl-6xx-kmod-011_kernel_3.10.patch 
+
+apt-get install bcmwl-kernel-source
+apt-get remove broadcom-sta-dkms
+apt-get install broadcom-sta-dkms
+wget http://ftp.us.debian.org/debian/pool/non-free/b/broadcom-sta/broadcom-sta-dkms_6.30.223.271-7_all.deb
+modprobe wl
+ls ..
+ls
+cd ..
+ls
+gdebi broadcom-sta-dkms_6.30.223.271-8_all.deb 
+apt-get install gdebi
+gdebi broadcom-sta-dkms_6.30.223.271-8_all.deb 
+modprobe wl
+vim KaliSetUp.md 
+ls
+sslocal -c ss.conf 
+tmux
+ping baidu.com
+sslocal -c ss.conf 
+vim /etc/apt/sources.list
+apt update
+apt-get update
+vim
+vim KaliSetUp.md 
+ls
+sslocal -c ss.conf 
+apt-get update && apt-get install fcitx fcitx-googlepinyin
+EXe
+exit
+apt-get update && apt-get upgrade
+tmux
+reboot
+vim
+mv KaliSetUp.md kaliSetUp.md 
+vim kaliSetUp.md 
+apt-get dist-upgrade
+reboot
+sslocal -c ss.conf 
+vim kaliSetUp.md 
+tmux
+LS
+curl
+wget
+git
+zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+kbdrate 
+kbdrate -d 200 -r 30
+lsblk
+mount  /dev/sda8
+mount  /dev/sda8  /mnt
+cd /mnt.
+cd /mnt
+ls
+vim  .zshrcc
+ls -aall
+cd /root/
+pwd
+cd /mnt/root/
+vim  .zsh_history 
+vim kaliSetUp.md 
+ls
+vim kaliSetUp.md 
+chsh zsh
+zsh
+where zsh
+whereis zsh
+chsh /usr/bin/zsh
+ls
+sslocal -c ss.conf 
+tmux
+sslocal -c ss.conf 
+zsh
+bash
+sslocal -c ss.conf 
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+cp .zshrc .zshrcBack
+rm -rf .oh-my-zsh/
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+sslocal -c ss.conf 
+cat /etc/shells 
+chsh
+zsh
+apt install xorg dmenu conky i3 -y
+zsh
+sslocal -c ss.conf 
+ｖｉｍ
+vim
+zsh
+ping baidu.com
+ls -al
+tldr ls
+exit
+top
+exit
+vim /etc/inittab
+cat /etc/init/
+ls /etc/init/
+ls /etc/init.d/
+ranger
+vim .xinitrc
+mkdir ~/.config/plasma-workspace/env
+mkdir -p ~/.config/plasma-workspace/env
+vim ~/.config/plasma-workspace/env/set_window_manager.sh
+whereis i3
+vim ~/.config/plasma-workspace/env/set_window_manager.sh
+chmod +x ~/.config/plasma-workspace/env/set_window_manager.sh
+vim kaliSetUp.md 
+sslocal -c ss.conf 
+vim kaliSetUp.md 
+tmux
+vim .bash_history 
+mv ~/.config/plasma-workspace/env/set_window_manager.sh ~/.config/plasma-workspace/env/set_window_manager.shx 
+reboot
+ls
+reboot
+sslocal -c ss.conf 
+tmux
+ls
+vim .bash_history 
+exit
+shutdown now
+restart
+shutdown now
+史秋实
+fdisk -l
+mount /dev/sda6 /mnt/arch
+mkdir -l
+mkdir /mnt/arch
+mount /dev/sda6 /mnt/arch
+cd /mnt/arch/
+ls
+ranger
+cd
+umount /mnt/arch/
+mount /dev/sda2 /mnt/arch
+mount /dev/sda8 /mnt/arch
+cd /mnt/arch
+ls
+ls /mnt/arch/root/
+cp /mnt/arch/root/console_Caps2Ctrl/cliCaps2Ctrl.mapExxxxxx /root/
+cd /root/
+ls
+cat /mnt/arch/root/.zsh_history 
+loadkeys cliCaps2Ctrl.mapExxxxxx 
+vim 0723.txt
+man mv
+ls
+ranger
+sslocal -c ss.conf 
+tmux
+w
+vim .zsh_history 
+
+vim .zsh_history 
+mv /etc/init/kdm.conf /etc/init/kdm.conf-disabled
+mv -f /etc/init/kdm.conf /etc/init/kdm.conf-disabled
+du -sh /etc/X11/default-display-manager
+vim /etc/X11/default-display-manager
+cat ./etc/X11/default-display-manager
+cat /etc/X11/default-display-manager
+systemctl stop sddm
+systemtcl disable sddm
+systemcl disable sddm
+systemctl disable sddm
+exit
+sslocal -c ss.conf 
+vim ss.conf 
+sslocal -c ss.conf 
+vim 0723.txt 
+wqex _2#_2 e;#e;wq
+exit
+tmux ls
+tmux a
+startx
+loadkeys cliCaps2Ctrl.mapExxxxxx 
+startx
+loadkeys cliCaps2Ctrl.mapExxxxxx 
+sslocal -c ss.conf 
+vim 0723.txt 
+sslocal -c ss.conf 
+tmux
+w
+vim 0723.txt 
+loadkeys cliCaps2Ctrl.mapExxxxxx 
+vim 0723.txt 
+tmux
+touch /etc/init.d/rc.local
+chmod +x /etc/init.d/rc.local
+ls | grep hi
+ls -al | grep hi
+vim .bash_history 
+sslocal -c ss.conf 
+ping baidu.com
+startx
+which loadkeys 
+vim 0723.txt 
+whereis i3
+which loadkeys 
+sslocal -c ss.conf 
+tmux
+vim 0723.txt 
+clear
+startx
+vim 0723.txt 
+ps -ef | grep firef
+kill 1136
+sslocal -c ss.conf 
+tmux
+shutdown now
+vim .bash_history 
+vim .bashrc 
+sslocal -c ss.conf 
+tmux
+startx
+shutdown now
+vim 0723.txt 
+X -version
+fdisk -l
+mount /dev/sda8 /mnt/arch
+ls /mnt/arch
+ls /mnt/arch/root/
+ls -al /mnt/arch/root/
+vim /mnt/arch/root/.xinitrc 
+cp /mnt/arch/root/.xinitrc .
+exit
+sslocal -c ss.conf 
+ls
+cp ss.conf ssEx.conf
+vim ssEx.conf
+sslocal -c ssEx.conf 
+sslocal -c ss.conf 
+tmux
+LS
+ls
+tmux
+ls -al /mnt/arch/root/
+cp /mnt/arch/root/.Xmodmap .
+exit
+tmux a
+ranger
+ps -ef | grep firef
+kill 2214
+ps -ef | grep firef
+kill 2342
+vim /etc/login.defs 
+ps -ef | grep firef
+kill 2747
+vim /etc/inittab
+mkdir auto_login
+cd auto_login
+vim autologin.c
+cc autologin.c -o /usr/sbin/autologin
+du -sh /usr/sbin/autologin
+exit
+sslocal -c ssEx.conf 
+exit
+ps -ef | grep firef
+kill 1541
+exit
+tmux
+tmux a
+exit
+vim .bashrc 
+which sslocal
+vim .bashrc 
+startx
+tmux ls
+tmux a
+startx
+reboot 
+vim /etc/login.defs 
+reboot 
+iwlist scan
+vim /etc/network/interfaces
+exit
+sslocal -c ssEx.conf 
+exit
+exit
+tmux
+exit
+startx
+ls -al | grep ini
+mv .xinitrc  .xinitrcEx
+startx
+sslocal -c ssEx.conf 
+tmux
+ping baidu.com
+startx
+cp /usr/lib/systemd/system/getty@.service /etc/systemd/system/autologin@.service
+vim
+ranger
+sys
+systemctl 
+tmux
+apt install mingetty
+cp /usr/lib/systemd/system/getty@.service /etc/systemd/system/autologin@.service
+vim /etc/init/tty1.conf
+exit
+ls /mnt/arch/usr/lib/systemd/system | grep ws
+ls /mnt/arch/usr/lib/systemd/system 
+ls /mnt/arch/usr/lib/systemd/system | grep wlp
+man systemctl 
+sslocal -c ssEx.conf 
+vim
+ranger
+ranger
+tmux
+vim /etc/login.defs 
+rm /etc/inittab 
+ls
+mount /dev/sda8 /mnt/arch
+tmux
+ls
+mv .xinitrcEx .xinitrc
+startx
+mv .xinitrc  .xinitrcEx
+startx
+reboot
+ls  /etc/network/interfaces.d/
+ls -al /etc/network/interfaces.d/
+nmcli dev
+nmcli dev wlan0 connect "Tenda" password "13395273876" ifname wlan0
+nmcli device wlan0 connect "Tenda" password "13395273876" ifname wlan0
+nmcli dev wifi connect "Tenda" password "13395273876" ifname wlan0
+mount /dev/sda8 /mnt/arch
+vim /mnt/arch/etc/network/interfaces
+ls /etc/wpa_supplicant/
+vim 0723.txt 
+sslocal -c ssEx.conf 
+vim  /etc/network/interfaces
+wpa_cli status
+tmux
+cp /usr/lib/systemd/system/getty@.service /etc/systemd/system/autologin@.service
+startx
+reboot 
+ping baidu.com
+vim /etc/systemd/logind.conf
+systemctl edit getty@tty1
+systemctl enable getty@tty1.service
+sslocal -c ssEx.conf 
+tmux
+tmux
+mv .xinitrc  .xinitrcEx
+mv .xinitrcEx .xinitrc
+startx
+reboot 
+ping baidu.com
+zsh
+shutdown now
+
+vim
+ls
+
+cp /mnt/arch/root/write_systemd_unit/me_start.service .
+ls
+vim me_start.service 
+vim onetab.txt
+echo 666 > /sys/class/backlight/intel_backlight/brightness
+echo 999 > /sys/class/backlight/intel_backlight/brightness
+echo 777 > /sys/class/backlight/intel_backlight/brightness
+echo 888 > /sys/class/backlight/intel_backlight/brightness
+xinput set-prop 15 293 1
+apt install xinput
+xinput set-prop 15 293 1
+ranger
+sslocal -c ssEx.conf 
+tmux
+startx
+reboot 
+ranger
+which sslocal 
+vim start_ss.sh 
+systemd-analyze 
+systemd-analyze blame 
+ranger
+chmod +x start_frp.sh 
+chmod +x start_ss.sh 
+chmod +x start.sh 
+vim 
+vim .bashrc 
+vim .bash_history 
+systemctl start me_start
+systemctl status me_start
+vim /usr/lib/systemd/system/me_start.service 
+systemctl start me_start
+ps -ef | grep frp
+ps -ef | grep sslo
+ls
+cd frp/
+ls
+cd frp_0.21.0_linux_amd64/
+ls
+ls /usr/lib/systemd/
+ls /usr/lib/systemd/user
+
+mkdir 
+
+ls /usr/lib/systemd/system/
+ps -ef | grep firef
+
+systemctl daemon-reload
+systemctl start me_start
+tmux
+systemctl enable sshd
+lsof -i -P -n | grep LISTEN
+ps -ef | grep firef
+kill 1908
+systemctl enable ssh
+systemctl start ssh
+vim /usr/lib/systemd/system/me_start.service 
+sslocal -c ssEx.conf 
+ps -ef | grep firef
+kill 1781
+bash
+ls
+tmux
+ls
+mount /dev/sda8 /mnt/arch
+
+startx
+reboot 
+ls
+tail -f frp/frp_0.21.0_linux_amd64/frp_output.log 
+vim frp/frp_0.21.0_linux_amd64/frp_output.log
+ls
+lsof -i -P -n | grep LISTEN
+vim frp/frp_0.21.0_linux_amd64/frp_output.log
+ls
+vim start_frp.sh 
+./start_frp.sh 
+ls
+tail -f frp/frp_0.21.0_linux_amd64/frp_output.log 
+systemctl enable me_start.service
+reboot 
+tail -f frp/frp_0.21.0_linux_amd64/frp_output.log 
+date
+vim frp/frp_0.21.0_linux_amd64/mefrpc.ini 
+reboot 
+ps -ef | grep firef
+vim /usr/lib/systemd/system/me_start.service 
+tmu
+tmux
+sslocal -c ssEx.conf 
+ps -ef | grep frp
+ps -ef | grep sslo
+
+vim /usr/lib/systemd/system/me_start.service 
+./start_ss.sh 
+ps -ef | grep sslo
+ps -ef | grep frp
+./start_frp.sh 
+ps -ef | grep frp
+
+ps -ef | grep frp
+kill -9 785
+ps -ef | grep ssl
+kill 762
+ps -ef | grep ssl
+ps -ef | grep frp
+./start.sh 
+ps -ef | grep frp
+ps -ef | grep ssl
+kill 890
+kill 896
+ps -ef | grep frp
+ps -ef | grep ssl
+
+ps -ef | grep ssl
+ps -ef | grep frp
+vim /usr/lib/systemd/system/me_start.service 
+vim 
+vim /usr/lib/systemd/system/me_start.service 
+startx
+reboot 
+vim /usr/lib/systemd/system/me_start.service 
+mount /dev/sda8 /mnt/arch
+vim /mnt/arch/usr/lib/systemd/system/me_start.service 
+ps -ef | grep frp
+ps -ef | grep ssl
+systemctl daemon-reload
+systemctl start me_start
+systemctl status me_start.service
+vim start.sh 
+systemctl start me_start
+systemctl status me_start
+vim /usr/lib/systemd/system/me_start.service 
+systemctl daemon-reload
+systemctl status me_start
+systemctl start me_start
+ps -ef | grep ssl
+ps -ef | grep frp
+reboot 
+mount /dev/sda8 /mnt/arch
+vim /etc/ssh/sshd_config 
+systemctl restart ssh
+ranger
+vim /etc/ssh/sshd_config 
+tmux
+reboot 
+tail -f frp/frp_0.21.0_linux_amd64/frp_output.log 
+./start_frp.sh 
+
+ps -ef | grep ssl
+ps -ef | grep frp
+tail -f frp/frp_0.21.0_linux_amd64/frp_output.log 
+tmux
+reboot 
+ps -ef | grep frp
+ps -ef | grep ssl
+ps -ef | grep frp
+tail -f frp/frp_0.21.0_linux_amd64/frp_output.log 
+reboot 
+tmux
+shutdown now
+reboot 
+timedatectl set-local-rtc 1 --adjust-system-clock
+echo 666 > /sys/class/backlight/intel_backlight/brightness
+echo 266 > /sys/class/backlight/intel_backlight/brightness
+tmux
+vim .bash_history 
+vim .zsh_history 
+
+vim .zsh_history 
+vim .bash_history 
+vim 0723.txt 
+vim /etc/default/rcs
+vim /etc/default/rc5
+ls /etc/default/
+startx
+shutdown 
+shutdown now
+reboot 

@@ -1,0 +1,11 @@
+[Unit]
+Description=Me Start Service
+                                                                                                                                      
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /root/start.sh
+StandardOutput=syslog
+StandardError=inherit
+ 
+[Install]
+WantedBy=multi-user.target

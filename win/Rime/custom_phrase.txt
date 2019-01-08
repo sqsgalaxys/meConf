@@ -1,0 +1,34 @@
+# Rime table
+# coding: utf-8
+#@/db_name  custom_phrase.txt
+#@/db_type	tabledb
+#
+# 用於【朙月拼音】系列輸入方案
+# 【小狼毫】0.9.21 以上
+#
+# 請將該文件以UTF-8編碼保存爲
+# Rime用戶文件夾/custom_phrase.txt
+#
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+#
+# 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+#
+# no comment
+
+shiqiushi8@gmail.com	gmail	2
+sqsgalaxys@icloud.com	icloud	2
+github.com	github	2
+&lr=lang_zh-CN	lr	2
+&tbs=qdr:m	tbs	2
+sqsgalaxys@outlook.com	out	2
+site:v2ex.com	sve	2
+PowerShell	ps	2
+sqsgalaxys@outlook.com	out	2
+replaceme	rrr	2
+Weasel	xlh	2
+filetype:pdf	fp	2
+ios jailbroken	broken	2
+
+
+

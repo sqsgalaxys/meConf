@@ -1,0 +1,65 @@
+!colors trans
+!URxvt.depth: 32
+!URxvt.shading:130
+!URxvt.title:urxvrt
+!URxvt.background: rgba:1111/1111/1111/FFFF
+URxvt.background:black
+URxvt.foreground:green
+!URxvt.colorBD:white
+!URxvt.colorIT:magenta
+!URxvt.colorUL:yellow
+!URxvt.underlineColor:cyan
+!URxvt.tintColor:gray
+!URxvt.cursorColor:wite
+
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+!scrollbar
+URxvt.scrollBar:False
+URxvt.scrollBar_right:False
+URxvt.scrollBar_floating:False
+URxvt.scrollstyle:plain
+!scroll
+URxvt.mouseWheelScrollPage:True
+URxvt.scrollTtyOutput:False
+URxvt.scrollWithBuffer:True
+URxvt.scrollTtykeypress:True
+
+
+!Blink
+URxvt.cursorBlink:True
+URxvt.saveLines:10000
+
+!borderLess
+URxvt.borderLess:False
+
+!font
+Xft.dpi:96
+! URxvt.font:-misc-fixed-medium-r-normal--14-*-*-*-*-*-iso10646-1,xft:WenQuanYi Bitmap Song:size=22
+!  Noto Sans Mono CJK SC
+! Noto Sans CJK SC
+
+
+
+! URxvt.font:     xft:bitstream Noto Sans Mono CJK SC :size=10:antialias=true
+! URxvt.boldFont: xft:bitstream Noto Serif CJK SC :bold:size=10:antialias=true
+
+
+URxvt.inputMethod:fcitx
+URxvt*font:     xft:bitstream Noto Sans Mono CJK SC :size=10:antialias=true:pixelsize=13
+URxvt*boldFont: xft:bitstream Noto Serif CJK SC :bold:size=10:antialias=true:pixelsize=13
+
+! URxvt.font:     xft:Noto Sans Mono CJK SC
+! URxvt.boldFont: xft:Noto Serif CJK SC
+URxvt*letterSpace: -4
+
+
+URxvt.depth:                32
+URxvt.geometry: 90x30
+URxvt.lineSpace: 0
+

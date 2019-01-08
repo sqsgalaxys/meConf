@@ -1,0 +1,55 @@
+# [Rime 別樣設定，使用西文標點、[ ] 鍵換頁](https://gist.github.com/lotem/2334409 '0.0')
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.11.1
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Mon Jul  9 13:44:06 2018"
+  rime_version: 1.3.0
+patch:
+  "switcher/hotkeys":
+        - "Control+Alt+F8"
+  "menu/page_size": 9 # 允许的范围 1-9
+  ascii_composer/switch_key:
+    hotkeys: Control+grave
+    Shift_L: commit_code
+    Shift_R: commit_code
+    Control_L: clear
+    Control_R: clear
+    Caps_Lock: clear
+  key_binder:
+    bindings:
+        - {accept: Escape, toggle: ascii_mode, when: always}
+        - {accept: "Control+p", send: Up, when: composing}
+        - {accept: "Control+n", send: Down, when: composing}
+        - {accept: "Control+b", send: Left, when: composing}
+        - {accept: "Control+f", send: Right, when: composing}
+        - {accept: "Control+a", send: Home, when: composing}
+        - {accept: "Control+e", send: End, when: composing}
+        - {accept: "Control+d", send: Delete, when: composing}
+        - {accept: "Control+k", send: "Shift+Delete", when: composing}
+        - {accept: "Control+h", send: BackSpace, when: composing}
+        - {accept: "Control+g", send: Escape, when: composing}
+        - {accept: "Control+bracketleft", send: Escape, when: composing}
+        - {accept: "Alt+v", send: Page_Up, when: composing}
+        - {accept: "Control+v", send: Page_Down, when: composing}
+        - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
+        - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+        - {accept: Tab, send: "Shift+Right", when: composing}
+        - {accept: minus, send: Page_Up, when: has_menu}
+        - {accept: equal, send: Page_Down, when: has_menu}
+        - {accept: comma, send: Page_Up, when: paging}
+        - {accept: period, send: Page_Down, when: has_menu}
+  schema_list:
+    - {schema: luna_pinyin_simp}
+# [请问可以设置成在任何地方默认英文状态吗？ · Issue #20 · rime/weasel](https://github.com/rime/weasel/issues/20 '0.0')
+  switches:
+    - name: ascii_mode
+      reset: 0
+      states: [ 中文, 西文 ]
+    - name: full_shape
+      states: [ 半角, 全角 ]
+    - name: extended_charset
+      states: [ 常用, 增廣 ]
+    - name: ascii_punct
+      states: [ 。，, ．， ]
+      # 修改F4快捷键 　　在【小狼毫】用户文件夹，修改default.custom.yaml文件，在patch:后加入”switcher/hotkeys”: -“Control+grave”
