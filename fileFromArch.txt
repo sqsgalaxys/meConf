@@ -1,0 +1,33 @@
+
+: 1538655238:0;startx
+: 1538655554:0;cp /usr/lib/systemd/system/getty@.service /etc/systemd/system/autologin@.service
+: 1538655605:0;ln -s /etc/systemd/system/autologin@.service /etc/systemd/system/getty.target.wants/getty@tty1.service
+: 1538655637:0;vim /etc/systemd/system/autologin@.service
+: 1538655781:0;vim /etc/systemd/system/getty.target.wants/getty@tty1.service
+: 1538655796:0;mv /etc/systemd/system/getty.target.wants/getty@tty1.service /etc/systemd/system/getty.target.wants/getty@tty1.service.backup
+: 1538655802:0;ln -s /etc/systemd/system/autologin@.service /etc/systemd/system/getty.target.wants/getty@tty1.service
+: 1538655821:0;vim /etc/systemd/system/getty.target.wants/getty@tty1.service\
+
+: 1538655833:0;vim /etc/systemd/system/autologin@.service
+: 1538655890:0;reboot
+: 1538655924:0;lsof -i -P -n | grep LISTEN
+
+: 1538655147:0;reboot
+: 1538655223:0;lsof -i -P -n | grep LISTEN
+: 1538655238:0;startx
+: 1538655554:0;cp /usr/lib/systemd/system/getty@.service /etc/systemd/system/autologin@.service
+: 1538655605:0;ln -s /etc/systemd/system/autologin@.service /etc/systemd/system/getty.target.wants/getty@tty1.service
+: 1538655637:0;vim /etc/systemd/system/autologin@.service
+: 1538655781:0;vim /etc/systemd/system/getty.target.wants/getty@tty1.service
+: 1538655796:0;mv /etc/systemd/system/getty.target.wants/getty@tty1.service /etc/systemd/system/getty.target.wants/getty@tty1.service.backup
+: 1538655802:0;ln -s /etc/systemd/system/autologin@.service /etc/systemd/system/getty.target.wants/getty@tty1.service
+: 1538655821:0;vim /etc/systemd/system/getty.target.wants/getty@tty1.service\
+
+: 1538655833:0;vim /etc/systemd/system/autologin@.service
+: 1538655890:0;reboot
+: 1538655924:0;lsof -i -P -n | grep LISTEN
+: 1538656010:0;ls /root/frp/frp_0.21.0_linux_amd64/frp_output.log
+: 1538656014:0;tail -f  /root/frp/frp_0.21.0_linux_amd64/frp_output.log
+: 1538656039:0;startx
+: 1538657003:0;vim start_frp.sh
+: 1538657068:0;reboot
